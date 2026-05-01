@@ -1,5 +1,9 @@
 name: Quant Dashboard Auto Update
 
+# main.yml 파일에 추가하면 좋은 권한 설정
+permissions:
+  contents: write
+
 # 실행 조건 설정
 on:
   schedule:

@@ -43,8 +43,11 @@
                     return;
                 }
 
+                // index.html 내 fetchAndRender 함수의 데이터 매핑 부분 수정
                 container.innerHTML = data.map(stock => `
-                    <div class="stock-card">
+                    <div class="stock-card" 
+                        onclick="window.open('https://m.stock.naver.com/fchart/domestic/stock/${stock.code}', '_blank')" 
+                        style="cursor: pointer;">
                         <div class="card-header">
                             <span class="ticker">${stock.code}</span>
                             <span class="badge ${type}">${getLabel(type)}</span>
@@ -61,6 +64,9 @@
                         <div class="info-row" style="font-size: 0.75rem; margin-top: 10px;">
                             <span class="info-label">업데이트</span>
                             <span class="info-value">${stock.update_date}</span>
+                        </div>
+                        <div class="card-footer" style="margin-top: 12px; text-align: right; font-size: 0.8rem; color: #3182ce; font-weight: 700;">
+                            전문가 차트 보기 >
                         </div>
                     </div>
                 `).join('');
