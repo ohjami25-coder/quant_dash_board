@@ -1,0 +1,58 @@
+[
+    {
+        "code": "000080",
+        "name": "하이트진로",
+        "u_score": 47.19,
+        "current_price": 17110,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-05-01"
+    },
+    {
+        "code": "007310",
+        "name": "오뚜기",
+        "u_score": 54.8,
+        "current_price": 365500,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-05-01"
+    },
+    {
+        "code": "039200",
+        "name": "오스코텍",
+        "u_score": 62.61,
+        "current_price": 52000,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-05-01"
+    },
+    {
+        "code": "050890",
+        "name": "쏠리드",
+        "u_score": 52.06,
+        "current_price": 17110,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-05-01"
+    },
+    {
+        "code": "114090",
+        "name": "GKL",
+        "u_score": 61.31,
+        "current_price": 12060,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-05-01"
+    },
+    {
+        "code": "240810",
+        "name": "원익IPS",
+        "u_score": 63.34,
+        "current_price": 117100,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-05-01"
+    },
+    {
+        "code": "300720",
+        "name": "한일시멘트",
+        "u_score": 52.01,
+        "current_price": 17450,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-05-01"
+    }
+]

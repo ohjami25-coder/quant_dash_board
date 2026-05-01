@@ -1,0 +1,100 @@
+/* style.css */
+body {
+    font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, Roboto, sans-serif;
+    background-color: #f5f7fa;
+    margin: 0;
+    padding: 10px; /* 모바일 대응을 위해 패딩 축소 */
+    color: #333;
+}
+
+h1 { text-align: center; color: #1a202c; margin-bottom: 20px; font-size: 1.5rem; }
+
+/* 메뉴 버튼 스타일 - 스티키 메뉴 */
+.menu-bar {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-bottom: 20px;
+    position: sticky;
+    top: 0;
+    background: #f5f7fa;
+    padding: 10px 0;
+    z-index: 100;
+}
+
+.menu-bar button {
+    flex: 1; /* 버튼 너비 균등 분배 */
+    max-width: 120px;
+    padding: 12px 5px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    border: none;
+    border-radius: 8px;
+    background-color: #fff;
+    color: #4a5568;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    transition: all 0.2s;
+}
+
+.menu-bar button.active {
+    background-color: #3182ce;
+    color: #fff;
+}
+
+/* 카드 디자인 */
+#content-area {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 15px;
+    padding-bottom: 40px;
+}
+
+.stock-card {
+    background: #fff;
+    border-radius: 16px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    padding: 15px;
+    border: 1px solid #e2e8f0;
+    display: flex;
+    flex-direction: column;
+}
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.ticker { color: #718096; font-size: 0.8rem; font-weight: 500; }
+.badge { 
+    padding: 3px 8px; 
+    border-radius: 6px; 
+    font-size: 0.7rem; 
+    font-weight: bold;
+}
+.badge.round { background: #fff5f5; color: #c53030; } /* 라운드바텀 */
+.badge.double { background: #ebf8ff; color: #2b6cb0; } /* 더블바텀 */
+.badge.flat { background: #f0fff4; color: #2f855a; }   /* 플랫베이스 */
+
+.stock-name { margin: 0 0 10px 0; font-size: 1.1rem; color: #1a202c; }
+
+.info-row { 
+    display: flex; 
+    justify-content: space-between; 
+    margin: 4px 0; 
+    font-size: 0.9rem; 
+}
+.info-label { color: #718096; }
+.info-value { font-weight: 600; color: #2d3748; }
+
+/* 모바일 전용: 한 줄 노출 */
+@media (max-width: 600px) {
+    .card-grid { grid-template-columns: 1fr; }
+}

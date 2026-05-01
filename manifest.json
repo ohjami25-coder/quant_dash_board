@@ -1,0 +1,15 @@
+{
+  "name": "내 전용 퀀트 대시보드",
+  "short_name": "퀀트봇",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2ecc71",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2422/2422796.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

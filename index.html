@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="manifest" href="manifest.json">
+    <title>퀀트 대시보드</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>📈 퀀트 전략 실시간 보드</h1>
+
+    <nav class="menu-bar">
+        <button id="default-btn" onclick="fetchAndRender('round_bottom.json', 'round', this)">🔄 라운드</button>
+        <button onclick="fetchAndRender('double_bottom.json', 'double', this)">W 쌍바닥</button>
+        <button onclick="fetchAndRender('flat_base_stocks.json', 'flat', this)">📦 횡보응축</button>
+    </nav>
+
+    <div id="content-area">
+        <div class="card-grid" id="dashboard">
+            <!-- 데이터가 여기에 렌더링됩니다 -->
+        </div>
+    </div>
+
+    <script>
+        // 데이터를 가져와서 카드를 생성하는 통합 함수
+        async function fetchAndRender(fileName, type, btn) {
+            // 버튼 활성화 처리
+            const buttons = document.querySelectorAll('.menu-bar button');
+            buttons.forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+
+            const container = document.getElementById('dashboard');
+            container.innerHTML = '<p style="text-align:center;">데이터를 불러오는 중...</p>';
+
+            try {
+                const response = await fetch(fileName);
+                const data = await response.json();
+
+                if (data.length === 0) {
+                    container.innerHTML = '<p style="text-align:center;">조건에 맞는 종목이 없습니다.</p>';
+                    return;
+                }
+
+                container.innerHTML = data.map(stock => `
+                    <div class="stock-card">
+                        <div class="card-header">
+                            <span class="ticker">${stock.code}</span>
+                            <span class="badge ${type}">${getLabel(type)}</span>
+                        </div>
+                        <h3 class="stock-name">${stock.name}</h3>
+                        <div class="info-row">
+                            <span class="info-label">${getScoreLabel(type)}</span>
+                            <span class="info-value">${stock.u_score || stock.similarity || stock.bottom_diff || stock.std_ratio}%</span>
+                        </div>
+                        <div class="info-row">
+                            <span class="info-label">현재가</span>
+                            <span class="info-value">${stock.current_price.toLocaleString()}원</span>
+                        </div>
+                        <div class="info-row" style="font-size: 0.75rem; margin-top: 10px;">
+                            <span class="info-label">업데이트</span>
+                            <span class="info-value">${stock.update_date}</span>
+                        </div>
+                    </div>
+                `).join('');
+
+            } catch (error) {
+                container.innerHTML = '<p style="text-align:center;">데이터 파일이 없습니다. (분석 코드를 먼저 실행하세요)</p>';
+            }
+        }
+
+        // 라벨 및 스코어 텍스트 분기
+        function getLabel(type) {
+            if (type === 'round') return 'ROUND';
+            if (type === 'double') return 'DOUBLE';
+            return 'FLAT';
+        }
+
+        function getScoreLabel(type) {
+            if (type === 'round') return '패턴 유사도';
+            if (type === 'double') return '바닥 이격도';
+            return '변동 비율';
+        }
+
+        // 페이지 로드 시 기본적으로 라운드바텀 버튼 클릭 실행
+        window.onload = () => {
+            document.getElementById('default-btn').click();
+        };
+    </script>
+</body>
+</html>
