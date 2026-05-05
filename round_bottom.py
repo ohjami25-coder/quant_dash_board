@@ -81,7 +81,7 @@ def run_quant_analysis():
                     "ma_status": "Bullish(5>20)",
                     "update_date": today
                 })
-                print(f"🎯 매칭: {name}({code}) - 유사도: {sim_score}%")
+                # print(f"🎯 매칭: {name}({code}) - 유사도: {sim_score}%")
 
         except Exception as e:
             continue

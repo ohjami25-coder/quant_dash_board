@@ -60,7 +60,7 @@ def get_double_bottom_stocks():
                         "current_price": int(current_price),
                         "update_date": today
                     })
-                    print(f"🎯 쌍바닥 포착: {name}({code}) - 차이: {round(price_diff * 100, 2)}%")
+                    # print(f"🎯 쌍바닥 포착: {name}({code}) - 차이: {round(price_diff * 100, 2)}%")
 
         except Exception as e:
             continue

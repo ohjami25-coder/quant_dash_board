@@ -2,176 +2,162 @@
     {
         "code": "000080",
         "name": "하이트진로",
-        "std_ratio": 0.32,
-        "current_price": 17110,
-        "update_date": "2026-05-01"
+        "std_ratio": 0.4,
+        "current_price": 17070,
+        "update_date": "2026-05-05"
+    },
+    {
+        "code": "000120",
+        "name": "CJ대한통운",
+        "std_ratio": 0.69,
+        "current_price": 101300,
+        "update_date": "2026-05-05"
     },
     {
         "code": "000240",
         "name": "한국앤컴퍼니",
-        "std_ratio": 0.6,
-        "current_price": 24950,
-        "update_date": "2026-05-01"
+        "std_ratio": 0.62,
+        "current_price": 25300,
+        "update_date": "2026-05-05"
     },
     {
         "code": "004170",
         "name": "신세계",
-        "std_ratio": 0.5,
-        "current_price": 407000,
-        "update_date": "2026-05-01"
+        "std_ratio": 0.67,
+        "current_price": 410500,
+        "update_date": "2026-05-05"
     },
     {
         "code": "006040",
         "name": "동원산업",
-        "std_ratio": 0.48,
+        "std_ratio": 0.33,
         "current_price": 38550,
-        "update_date": "2026-05-01"
+        "update_date": "2026-05-05"
     },
     {
         "code": "007310",
         "name": "오뚜기",
-        "std_ratio": 0.4,
-        "current_price": 365500,
-        "update_date": "2026-05-01"
+        "std_ratio": 0.2,
+        "current_price": 364000,
+        "update_date": "2026-05-05"
     },
     {
         "code": "011810",
         "name": "STX",
         "std_ratio": 0.0,
         "current_price": 3530,
-        "update_date": "2026-05-01"
-    },
-    {
-        "code": "012750",
-        "name": "에스원",
-        "std_ratio": 0.7,
-        "current_price": 86100,
-        "update_date": "2026-05-01"
+        "update_date": "2026-05-05"
     },
     {
         "code": "015710",
         "name": "코콤",
-        "std_ratio": 0.37,
-        "current_price": 4010,
-        "update_date": "2026-05-01"
+        "std_ratio": 0.31,
+        "current_price": 3985,
+        "update_date": "2026-05-05"
     },
     {
-        "code": "024110",
-        "name": "기업은행",
-        "std_ratio": 0.65,
-        "current_price": 22600,
-        "update_date": "2026-05-01"
+        "code": "017800",
+        "name": "현대엘리베이터",
+        "std_ratio": 0.55,
+        "current_price": 100100,
+        "update_date": "2026-05-05"
     },
     {
         "code": "026960",
         "name": "동서",
-        "std_ratio": 0.25,
-        "current_price": 26700,
-        "update_date": "2026-05-01"
+        "std_ratio": 0.63,
+        "current_price": 26200,
+        "update_date": "2026-05-05"
     },
     {
         "code": "028670",
         "name": "팬오션",
-        "std_ratio": 0.58,
-        "current_price": 5540,
-        "update_date": "2026-05-01"
+        "std_ratio": 0.63,
+        "current_price": 5640,
+        "update_date": "2026-05-05"
     },
     {
         "code": "030000",
         "name": "제일기획",
-        "std_ratio": 0.62,
-        "current_price": 20050,
-        "update_date": "2026-05-01"
+        "std_ratio": 0.63,
+        "current_price": 19750,
+        "update_date": "2026-05-05"
     },
     {
         "code": "030200",
         "name": "KT",
-        "std_ratio": 0.64,
-        "current_price": 60900,
-        "update_date": "2026-05-01"
+        "std_ratio": 0.36,
+        "current_price": 60600,
+        "update_date": "2026-05-05"
     },
     {
         "code": "033780",
         "name": "KT&G",
-        "std_ratio": 0.47,
-        "current_price": 178300,
-        "update_date": "2026-05-01"
+        "std_ratio": 0.55,
+        "current_price": 179600,
+        "update_date": "2026-05-05"
     },
     {
         "code": "034020",
         "name": "두산에너빌리티",
-        "std_ratio": 0.7,
-        "current_price": 127100,
-        "update_date": "2026-05-01"
+        "std_ratio": 0.68,
+        "current_price": 127200,
+        "update_date": "2026-05-05"
     },
     {
-        "code": "051900",
-        "name": "LG생활건강",
-        "std_ratio": 0.26,
-        "current_price": 254000,
-        "update_date": "2026-05-01"
-    },
-    {
-        "code": "055550",
-        "name": "신한지주",
-        "std_ratio": 0.11,
-        "current_price": 99900,
-        "update_date": "2026-05-01"
+        "code": "042660",
+        "name": "한화오션",
+        "std_ratio": 0.58,
+        "current_price": 133000,
+        "update_date": "2026-05-05"
     },
     {
         "code": "071320",
         "name": "지역난방공사",
-        "std_ratio": 0.62,
-        "current_price": 76500,
-        "update_date": "2026-05-01"
+        "std_ratio": 0.27,
+        "current_price": 76300,
+        "update_date": "2026-05-05"
     },
     {
-        "code": "111770",
-        "name": "영원무역",
-        "std_ratio": 0.57,
-        "current_price": 82900,
-        "update_date": "2026-05-01"
+        "code": "126600",
+        "name": "BGF에코",
+        "std_ratio": 0.54,
+        "current_price": 4250,
+        "update_date": "2026-05-05"
     },
     {
-        "code": "122870",
-        "name": "와이지엔터테인먼트",
-        "std_ratio": 0.64,
-        "current_price": 54000,
-        "update_date": "2026-05-01"
-    },
-    {
-        "code": "137310",
-        "name": "에스디바이오센서",
-        "std_ratio": 0.67,
-        "current_price": 8420,
-        "update_date": "2026-05-01"
-    },
-    {
-        "code": "138930",
-        "name": "BNK금융지주",
-        "std_ratio": 0.53,
-        "current_price": 18730,
-        "update_date": "2026-05-01"
-    },
-    {
-        "code": "140860",
-        "name": "파크시스템스",
-        "std_ratio": 0.68,
-        "current_price": 289000,
-        "update_date": "2026-05-01"
+        "code": "175330",
+        "name": "JB금융지주",
+        "std_ratio": 0.47,
+        "current_price": 27350,
+        "update_date": "2026-05-05"
     },
     {
         "code": "268280",
         "name": "미원에스씨",
-        "std_ratio": 0.5,
-        "current_price": 122500,
-        "update_date": "2026-05-01"
+        "std_ratio": 0.65,
+        "current_price": 120300,
+        "update_date": "2026-05-05"
     },
     {
         "code": "280360",
         "name": "롯데웰푸드",
-        "std_ratio": 0.39,
-        "current_price": 121100,
-        "update_date": "2026-05-01"
+        "std_ratio": 0.41,
+        "current_price": 121200,
+        "update_date": "2026-05-05"
+    },
+    {
+        "code": "300720",
+        "name": "한일시멘트",
+        "std_ratio": 0.68,
+        "current_price": 17300,
+        "update_date": "2026-05-05"
+    },
+    {
+        "code": "302440",
+        "name": "SK바이오사이언스",
+        "std_ratio": 0.61,
+        "current_price": 43300,
+        "update_date": "2026-05-05"
     }
 ]

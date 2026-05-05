@@ -50,7 +50,7 @@ def get_flat_base_stocks():
                     "current_price": int(recent_5_days[-1]),
                     "update_date": today
                 })
-                print(f"📦 에너지 응축: {name}({code}) - 변동률: {round(float(std_ratio), 2)}%")
+                # print(f"📦 에너지 응축: {name}({code}) - 변동률: {round(float(std_ratio), 2)}%")
 
         except Exception as e:
             continue

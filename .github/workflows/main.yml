@@ -33,11 +33,19 @@ jobs:
           pip install finance-datareader yfinance pandas openpyxl
 
       # 4. 퀀트 분석 스크립트 실행
-      - name: Run Quant Analysis Scripts
+      # - name: Run Quant Analysis Scripts
+      #   run: |
+      #     python round_bottom.py
+      #     python double_bottom.py
+      #     python flat_base_stocks.py
+
+      # 4. 수정
+      - name: Run Analysis Scripts in Parallel
         run: |
-          python round_bottom.py
-          python double_bottom.py
-          python flat_base_stocks.py
+          python round_bottom.py &
+          python double_bottom.py &
+          python flat_base_stocks.py &
+          wait  
 
       # 5. 생성된 JSON 결과 파일들을 저장소에 커밋 및 푸시
       - name: Commit and Push Changes
