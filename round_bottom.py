@@ -6,7 +6,7 @@ import os
 from datetime import datetime
 
 # 1. 사용자 상수 및 경로 설정
-TICKER_PATH = 'c:/workjupyter/tickers/kskq350.xlsx'
+TICKER_PATH = './tickers/kskq350.xlsx'
 OUTPUT_PATH = 'round_bottom.json'
 
 # 사용자 제공 타겟 패턴 (16일 5ma diff)

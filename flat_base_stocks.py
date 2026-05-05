@@ -5,7 +5,7 @@ import numpy as np
 from datetime import datetime, timedelta
 
 # 1. 사용자 상수 및 경로 설정
-TICKER_PATH = 'c:/workjupyter/tickers/kskq350.xlsx'
+TICKER_PATH = './tickers/kskq350.xlsx'
 OUTPUT_PATH = 'flat_base_stocks.json'
 
 def get_flat_base_stocks():
