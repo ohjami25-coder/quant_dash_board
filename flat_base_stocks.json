@@ -2,29 +2,57 @@
     {
         "code": "000120",
         "name": "CJ대한통운",
-        "std_ratio": 0.69,
-        "current_price": 100800,
-        "update_date": "2026-05-07"
+        "std_ratio": 0.55,
+        "current_price": 100600,
+        "update_date": "2026-05-08"
+    },
+    {
+        "code": "006280",
+        "name": "녹십자",
+        "std_ratio": 0.57,
+        "current_price": 138100,
+        "update_date": "2026-05-08"
     },
     {
         "code": "011810",
         "name": "STX",
         "std_ratio": 0.0,
         "current_price": 3530,
-        "update_date": "2026-05-07"
+        "update_date": "2026-05-08"
     },
     {
-        "code": "131290",
-        "name": "티에스이",
+        "code": "064760",
+        "name": "티씨케이",
+        "std_ratio": 0.7,
+        "current_price": 299000,
+        "update_date": "2026-05-08"
+    },
+    {
+        "code": "138040",
+        "name": "메리츠금융지주",
         "std_ratio": 0.66,
-        "current_price": 171000,
-        "update_date": "2026-05-07"
+        "current_price": 112400,
+        "update_date": "2026-05-08"
+    },
+    {
+        "code": "192820",
+        "name": "코스맥스",
+        "std_ratio": 0.42,
+        "current_price": 210000,
+        "update_date": "2026-05-08"
     },
     {
         "code": "207940",
         "name": "삼성바이오로직스",
-        "std_ratio": 0.43,
-        "current_price": 1468000,
-        "update_date": "2026-05-07"
+        "std_ratio": 0.44,
+        "current_price": 1472000,
+        "update_date": "2026-05-08"
+    },
+    {
+        "code": "326030",
+        "name": "SK바이오팜",
+        "std_ratio": 0.47,
+        "current_price": 99400,
+        "update_date": "2026-05-08"
     }
 ]

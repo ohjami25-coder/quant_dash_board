@@ -2,89 +2,89 @@
     {
         "code": "000270",
         "name": "기아",
-        "u_score": 43.92,
-        "current_price": 157600,
+        "u_score": 61.05,
+        "current_price": 164500,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-07"
+        "update_date": "2026-05-08"
     },
     {
         "code": "003230",
         "name": "삼양식품",
-        "u_score": 48.18,
-        "current_price": 1264000,
+        "u_score": 74.96,
+        "current_price": 1360000,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-07"
+        "update_date": "2026-05-08"
     },
     {
         "code": "003490",
         "name": "대한항공",
-        "u_score": 61.04,
-        "current_price": 26350,
+        "u_score": 58.6,
+        "current_price": 27050,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-07"
+        "update_date": "2026-05-08"
     },
     {
         "code": "018260",
         "name": "삼성에스디에스",
-        "u_score": 59.4,
-        "current_price": 176600,
+        "u_score": 81.15,
+        "current_price": 175400,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-07"
-    },
-    {
-        "code": "025980",
-        "name": "아난티",
-        "u_score": 50.26,
-        "current_price": 7580,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-07"
+        "update_date": "2026-05-08"
     },
     {
         "code": "032500",
         "name": "케이엠더블유",
-        "u_score": 47.19,
-        "current_price": 32650,
+        "u_score": 42.31,
+        "current_price": 33900,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-07"
+        "update_date": "2026-05-08"
     },
     {
         "code": "095610",
         "name": "테스",
-        "u_score": 43.93,
-        "current_price": 89200,
+        "u_score": 62.39,
+        "current_price": 92900,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-07"
-    },
-    {
-        "code": "105560",
-        "name": "KB금융",
-        "u_score": 49.96,
-        "current_price": 161200,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-07"
+        "update_date": "2026-05-08"
     },
     {
         "code": "138080",
         "name": "오이솔류션",
-        "u_score": 55.88,
-        "current_price": 54000,
+        "u_score": 53.42,
+        "current_price": 53300,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-07"
+        "update_date": "2026-05-08"
+    },
+    {
+        "code": "145020",
+        "name": "휴젤",
+        "u_score": 42.5,
+        "current_price": 291500,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-05-08"
     },
     {
         "code": "179900",
         "name": "유티아이",
-        "u_score": 41.42,
-        "current_price": 20850,
+        "u_score": 66.37,
+        "current_price": 20400,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-07"
+        "update_date": "2026-05-08"
+    },
+    {
+        "code": "183300",
+        "name": "코미코",
+        "u_score": 55.4,
+        "current_price": 149500,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-05-08"
     },
     {
         "code": "218410",
         "name": "RFHIC",
-        "u_score": 43.61,
-        "current_price": 100800,
+        "u_score": 56.23,
+        "current_price": 99700,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-07"
+        "update_date": "2026-05-08"
     }
 ]
