@@ -1,9 +1,16 @@
 [
     {
+        "code": "011200",
+        "name": "HMM",
+        "std_ratio": 0.6,
+        "current_price": 19890,
+        "update_date": "2026-05-15"
+    },
+    {
         "code": "011810",
         "name": "STX",
         "std_ratio": 0.0,
         "current_price": 3530,
-        "update_date": "2026-05-14"
+        "update_date": "2026-05-15"
     }
 ]
