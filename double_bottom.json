@@ -3,147 +3,161 @@
         "code": "000270",
         "name": "기아",
         "bottom_diff": 1.58,
-        "current_price": 164300,
-        "update_date": "2026-05-28"
-    },
-    {
-        "code": "000880",
-        "name": "한화",
-        "bottom_diff": 4.73,
-        "current_price": 139200,
-        "update_date": "2026-05-28"
+        "current_price": 169200,
+        "update_date": "2026-05-29"
     },
     {
         "code": "003490",
         "name": "대한항공",
-        "bottom_diff": 1.85,
-        "current_price": 27000,
-        "update_date": "2026-05-28"
+        "bottom_diff": 1.22,
+        "current_price": 26800,
+        "update_date": "2026-05-29"
     },
     {
         "code": "003550",
         "name": "LG",
-        "bottom_diff": 4.99,
-        "current_price": 115800,
-        "update_date": "2026-05-28"
+        "bottom_diff": 4.88,
+        "current_price": 146600,
+        "update_date": "2026-05-29"
     },
     {
         "code": "006280",
         "name": "녹십자",
         "bottom_diff": 3.43,
-        "current_price": 142700,
-        "update_date": "2026-05-28"
+        "current_price": 141400,
+        "update_date": "2026-05-29"
     },
     {
         "code": "007390",
         "name": "네이처셀",
         "bottom_diff": 4.58,
-        "current_price": 32300,
-        "update_date": "2026-05-28"
+        "current_price": 30400,
+        "update_date": "2026-05-29"
     },
     {
         "code": "011790",
         "name": "SKC",
         "bottom_diff": 4.15,
-        "current_price": 137200,
-        "update_date": "2026-05-28"
+        "current_price": 139300,
+        "update_date": "2026-05-29"
+    },
+    {
+        "code": "017670",
+        "name": "SK텔레콤",
+        "bottom_diff": 3.97,
+        "current_price": 100600,
+        "update_date": "2026-05-29"
     },
     {
         "code": "018260",
         "name": "삼성에스디에스",
         "bottom_diff": 0.84,
-        "current_price": 248500,
-        "update_date": "2026-05-28"
+        "current_price": 299000,
+        "update_date": "2026-05-29"
     },
     {
         "code": "018880",
         "name": "한온시스템",
         "bottom_diff": 2.96,
-        "current_price": 5100,
-        "update_date": "2026-05-28"
+        "current_price": 5630,
+        "update_date": "2026-05-29"
     },
     {
         "code": "032500",
         "name": "케이엠더블유",
-        "bottom_diff": 1.23,
-        "current_price": 31200,
-        "update_date": "2026-05-28"
+        "bottom_diff": 2.86,
+        "current_price": 33350,
+        "update_date": "2026-05-29"
     },
     {
         "code": "033780",
         "name": "KT&G",
         "bottom_diff": 1.03,
-        "current_price": 183700,
-        "update_date": "2026-05-28"
+        "current_price": 184700,
+        "update_date": "2026-05-29"
     },
     {
         "code": "034220",
         "name": "LG디스플레이",
         "bottom_diff": 2.45,
-        "current_price": 14420,
-        "update_date": "2026-05-28"
+        "current_price": 16090,
+        "update_date": "2026-05-29"
+    },
+    {
+        "code": "035420",
+        "name": "NAVER",
+        "bottom_diff": 4.96,
+        "current_price": 234000,
+        "update_date": "2026-05-29"
     },
     {
         "code": "036570",
         "name": "엔씨소프트",
         "bottom_diff": 3.4,
-        "current_price": 284500,
-        "update_date": "2026-05-28"
+        "current_price": 289500,
+        "update_date": "2026-05-29"
     },
     {
         "code": "039030",
         "name": "이오테크닉스",
         "bottom_diff": 3.27,
-        "current_price": 484500,
-        "update_date": "2026-05-28"
+        "current_price": 458000,
+        "update_date": "2026-05-29"
+    },
+    {
+        "code": "047810",
+        "name": "한국항공우주",
+        "bottom_diff": 3.36,
+        "current_price": 168300,
+        "update_date": "2026-05-29"
     },
     {
         "code": "128940",
         "name": "한미약품",
         "bottom_diff": 2.13,
-        "current_price": 485500,
-        "update_date": "2026-05-28"
+        "current_price": 491000,
+        "update_date": "2026-05-29"
     },
     {
         "code": "161390",
         "name": "한국타이어앤테크놀로지",
         "bottom_diff": 0.34,
-        "current_price": 63000,
-        "update_date": "2026-05-28"
+        "current_price": 66800,
+        "update_date": "2026-05-29"
+    },
+    {
+        "code": "179900",
+        "name": "유티아이",
+        "bottom_diff": 4.56,
+        "current_price": 21850,
+        "update_date": "2026-05-29"
     },
     {
         "code": "183300",
         "name": "코미코",
         "bottom_diff": 2.4,
-        "current_price": 93700,
-        "update_date": "2026-05-28"
+        "current_price": 90000,
+        "update_date": "2026-05-29"
     },
     {
         "code": "204270",
         "name": "제이앤티씨",
         "bottom_diff": 4.19,
-        "current_price": 22200,
-        "update_date": "2026-05-28"
-    },
-    {
-        "code": "218410",
-        "name": "RFHIC",
-        "bottom_diff": 4.67,
-        "current_price": 93100,
-        "update_date": "2026-05-28"
+        "current_price": 21150,
+        "update_date": "2026-05-29"
     },
     {
         "code": "290650",
         "name": "엘앤씨바이오",
         "bottom_diff": 0.17,
-        "current_price": 75900,
-        "update_date": "2026-05-28"
+        "current_price": 75800,
+        "update_date": "2026-05-29"
     },
     {
         "code": "336570",
         "name": "원텍",
         "bottom_diff": 3.41,
-        "current_price": 8730,
-        "update_date": "2026-05-28"
+        "current_price": 8020,
+        "update_date": "2026-05-29"
     }
 ]

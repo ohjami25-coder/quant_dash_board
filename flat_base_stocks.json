@@ -1,9 +1,23 @@
 [
     {
+        "code": "001800",
+        "name": "오리온홀딩스",
+        "std_ratio": 0.55,
+        "current_price": 25050,
+        "update_date": "2026-05-29"
+    },
+    {
         "code": "011810",
         "name": "STX",
         "std_ratio": 0.0,
         "current_price": 3530,
-        "update_date": "2026-05-28"
+        "update_date": "2026-05-29"
+    },
+    {
+        "code": "185750",
+        "name": "종근당",
+        "std_ratio": 0.53,
+        "current_price": 79400,
+        "update_date": "2026-05-29"
     }
 ]

@@ -2,169 +2,73 @@
     {
         "code": "000150",
         "name": "두산",
-        "u_score": 62.02,
-        "current_price": 1660000,
+        "u_score": 47.03,
+        "current_price": 1972000,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-28"
+        "update_date": "2026-05-29"
     },
     {
         "code": "000270",
         "name": "기아",
-        "u_score": 50.81,
-        "current_price": 164300,
+        "u_score": 58.01,
+        "current_price": 169200,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-28"
+        "update_date": "2026-05-29"
     },
     {
-        "code": "000880",
-        "name": "한화",
-        "u_score": 47.05,
-        "current_price": 139200,
+        "code": "006400",
+        "name": "삼성SDI",
+        "u_score": 44.71,
+        "current_price": 688000,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-28"
-    },
-    {
-        "code": "010060",
-        "name": "OCI홀딩스",
-        "u_score": 40.96,
-        "current_price": 364000,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-28"
+        "update_date": "2026-05-29"
     },
     {
         "code": "011210",
         "name": "현대위아",
-        "u_score": 48.85,
-        "current_price": 88300,
+        "u_score": 52.35,
+        "current_price": 91000,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-28"
-    },
-    {
-        "code": "011790",
-        "name": "SKC",
-        "u_score": 61.25,
-        "current_price": 137200,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-28"
+        "update_date": "2026-05-29"
     },
     {
         "code": "018880",
         "name": "한온시스템",
-        "u_score": 61.44,
-        "current_price": 5100,
+        "u_score": 43.71,
+        "current_price": 5630,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-28"
+        "update_date": "2026-05-29"
     },
     {
         "code": "028260",
         "name": "삼성물산",
-        "u_score": 62.23,
-        "current_price": 399500,
+        "u_score": 57.88,
+        "current_price": 432500,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-28"
+        "update_date": "2026-05-29"
     },
     {
-        "code": "042660",
-        "name": "한화오션",
-        "u_score": 45.58,
-        "current_price": 124200,
+        "code": "035420",
+        "name": "NAVER",
+        "u_score": 64.02,
+        "current_price": 234000,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-28"
-    },
-    {
-        "code": "048410",
-        "name": "현대바이오",
-        "u_score": 41.72,
-        "current_price": 13150,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-28"
-    },
-    {
-        "code": "050890",
-        "name": "쏠리드",
-        "u_score": 43.85,
-        "current_price": 15870,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-28"
+        "update_date": "2026-05-29"
     },
     {
         "code": "087010",
         "name": "펩트론",
-        "u_score": 59.1,
-        "current_price": 320000,
+        "u_score": 41.1,
+        "current_price": 301000,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-28"
+        "update_date": "2026-05-29"
     },
     {
-        "code": "204320",
-        "name": "HL만도",
-        "u_score": 47.35,
-        "current_price": 61700,
+        "code": "348210",
+        "name": "넥스틴",
+        "u_score": 43.21,
+        "current_price": 67400,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-28"
-    },
-    {
-        "code": "218410",
-        "name": "RFHIC",
-        "u_score": 56.19,
-        "current_price": 93100,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-28"
-    },
-    {
-        "code": "226950",
-        "name": "올릭스",
-        "u_score": 56.79,
-        "current_price": 180100,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-28"
-    },
-    {
-        "code": "247540",
-        "name": "에코프로비엠",
-        "u_score": 50.6,
-        "current_price": 218500,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-28"
-    },
-    {
-        "code": "310210",
-        "name": "보로노이",
-        "u_score": 56.66,
-        "current_price": 288000,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-28"
-    },
-    {
-        "code": "329180",
-        "name": "HD현대중공업",
-        "u_score": 40.63,
-        "current_price": 704000,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-28"
-    },
-    {
-        "code": "347850",
-        "name": "디앤디파마텍",
-        "u_score": 40.58,
-        "current_price": 107500,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-28"
-    },
-    {
-        "code": "358570",
-        "name": "지아이이노베이션",
-        "u_score": 58.99,
-        "current_price": 15900,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-28"
-    },
-    {
-        "code": "402340",
-        "name": "SK스퀘어",
-        "u_score": 40.4,
-        "current_price": 1237000,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-28"
+        "update_date": "2026-05-29"
     }
 ]
