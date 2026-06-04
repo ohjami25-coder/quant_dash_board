@@ -1,74 +1,18 @@
 [
     {
-        "code": "000150",
-        "name": "두산",
-        "u_score": 47.03,
-        "current_price": 1972000,
+        "code": "001800",
+        "name": "오리온홀딩스",
+        "u_score": 42.9,
+        "current_price": 26600,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-29"
+        "update_date": "2026-06-04"
     },
     {
-        "code": "000270",
-        "name": "기아",
-        "u_score": 58.01,
-        "current_price": 169200,
+        "code": "069960",
+        "name": "현대백화점",
+        "u_score": 50.67,
+        "current_price": 139800,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-29"
-    },
-    {
-        "code": "006400",
-        "name": "삼성SDI",
-        "u_score": 44.71,
-        "current_price": 688000,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-29"
-    },
-    {
-        "code": "011210",
-        "name": "현대위아",
-        "u_score": 52.35,
-        "current_price": 91000,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-29"
-    },
-    {
-        "code": "018880",
-        "name": "한온시스템",
-        "u_score": 43.71,
-        "current_price": 5630,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-29"
-    },
-    {
-        "code": "028260",
-        "name": "삼성물산",
-        "u_score": 57.88,
-        "current_price": 432500,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-29"
-    },
-    {
-        "code": "035420",
-        "name": "NAVER",
-        "u_score": 64.02,
-        "current_price": 234000,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-29"
-    },
-    {
-        "code": "087010",
-        "name": "펩트론",
-        "u_score": 41.1,
-        "current_price": 301000,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-29"
-    },
-    {
-        "code": "348210",
-        "name": "넥스틴",
-        "u_score": 43.21,
-        "current_price": 67400,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-05-29"
+        "update_date": "2026-06-04"
     }
 ]
