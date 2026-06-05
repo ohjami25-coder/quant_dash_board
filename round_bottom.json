@@ -1,18 +1,18 @@
 [
     {
-        "code": "001800",
-        "name": "오리온홀딩스",
-        "u_score": 42.9,
-        "current_price": 26600,
+        "code": "012750",
+        "name": "에스원",
+        "u_score": 42.72,
+        "current_price": 73600,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-06-04"
+        "update_date": "2026-06-05"
     },
     {
-        "code": "069960",
-        "name": "현대백화점",
-        "u_score": 50.67,
-        "current_price": 139800,
+        "code": "023530",
+        "name": "롯데쇼핑",
+        "u_score": 60.53,
+        "current_price": 173000,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-06-04"
+        "update_date": "2026-06-05"
     }
 ]
