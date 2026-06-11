@@ -1,18 +1,34 @@
 [
     {
-        "code": "012750",
-        "name": "에스원",
-        "u_score": 42.72,
-        "current_price": 73600,
+        "code": "001450",
+        "name": "현대해상",
+        "u_score": 54.36,
+        "current_price": 37800,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-06-05"
+        "update_date": "2026-06-11"
     },
     {
-        "code": "023530",
-        "name": "롯데쇼핑",
-        "u_score": 60.53,
-        "current_price": 173000,
+        "code": "024110",
+        "name": "기업은행",
+        "u_score": 45.28,
+        "current_price": 20950,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-06-05"
+        "update_date": "2026-06-11"
+    },
+    {
+        "code": "131290",
+        "name": "티에스이",
+        "u_score": 59.96,
+        "current_price": 260000,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-06-11"
+    },
+    {
+        "code": "403870",
+        "name": "HPSP",
+        "u_score": 59.62,
+        "current_price": 55000,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-06-11"
     }
 ]

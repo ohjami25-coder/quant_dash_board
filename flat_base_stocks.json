@@ -1,44 +1,9 @@
 [
     {
-        "code": "007310",
-        "name": "오뚜기",
-        "std_ratio": 0.57,
-        "current_price": 328500,
-        "update_date": "2026-06-05"
-    },
-    {
-        "code": "011200",
-        "name": "HMM",
-        "std_ratio": 0.56,
-        "current_price": 19450,
-        "update_date": "2026-06-05"
-    },
-    {
         "code": "011810",
         "name": "STX",
         "std_ratio": 0.0,
         "current_price": 3530,
-        "update_date": "2026-06-05"
-    },
-    {
-        "code": "030000",
-        "name": "제일기획",
-        "std_ratio": 0.47,
-        "current_price": 18290,
-        "update_date": "2026-06-05"
-    },
-    {
-        "code": "035250",
-        "name": "강원랜드",
-        "std_ratio": 0.22,
-        "current_price": 15060,
-        "update_date": "2026-06-05"
-    },
-    {
-        "code": "097950",
-        "name": "CJ제일제당",
-        "std_ratio": 0.59,
-        "current_price": 200000,
-        "update_date": "2026-06-05"
+        "update_date": "2026-06-11"
     }
 ]
