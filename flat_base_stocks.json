@@ -4,6 +4,13 @@
         "name": "STX",
         "std_ratio": 0.0,
         "current_price": 3530,
-        "update_date": "2026-06-11"
+        "update_date": "2026-06-12"
+    },
+    {
+        "code": "053800",
+        "name": "안랩",
+        "std_ratio": 0.65,
+        "current_price": 57300,
+        "update_date": "2026-06-12"
     }
 ]

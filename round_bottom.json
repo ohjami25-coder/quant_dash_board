@@ -1,34 +1,42 @@
 [
     {
-        "code": "001450",
-        "name": "현대해상",
-        "u_score": 54.36,
-        "current_price": 37800,
+        "code": "026960",
+        "name": "동서",
+        "u_score": 44.92,
+        "current_price": 25500,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-06-11"
+        "update_date": "2026-06-12"
     },
     {
-        "code": "024110",
-        "name": "기업은행",
-        "u_score": 45.28,
-        "current_price": 20950,
+        "code": "030000",
+        "name": "제일기획",
+        "u_score": 45.12,
+        "current_price": 20450,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-06-11"
+        "update_date": "2026-06-12"
     },
     {
-        "code": "131290",
-        "name": "티에스이",
-        "u_score": 59.96,
-        "current_price": 260000,
+        "code": "033780",
+        "name": "KT&G",
+        "u_score": 43.83,
+        "current_price": 187800,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-06-11"
+        "update_date": "2026-06-12"
+    },
+    {
+        "code": "222800",
+        "name": "심텍",
+        "u_score": 59.89,
+        "current_price": 130100,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-06-12"
     },
     {
         "code": "403870",
         "name": "HPSP",
-        "u_score": 59.62,
-        "current_price": 55000,
+        "u_score": 45.6,
+        "current_price": 71500,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-06-11"
+        "update_date": "2026-06-12"
     }
 ]
