@@ -4,13 +4,41 @@
         "name": "STX",
         "std_ratio": 0.0,
         "current_price": 3530,
-        "update_date": "2026-06-12"
+        "update_date": "2026-06-18"
     },
     {
-        "code": "053800",
-        "name": "안랩",
+        "code": "015710",
+        "name": "코콤",
+        "std_ratio": 0.24,
+        "current_price": 3000,
+        "update_date": "2026-06-18"
+    },
+    {
+        "code": "068270",
+        "name": "셀트리온",
+        "std_ratio": 0.42,
+        "current_price": 173600,
+        "update_date": "2026-06-18"
+    },
+    {
+        "code": "101490",
+        "name": "에스앤에스텍",
         "std_ratio": 0.65,
-        "current_price": 57300,
-        "update_date": "2026-06-12"
+        "current_price": 64300,
+        "update_date": "2026-06-18"
+    },
+    {
+        "code": "271560",
+        "name": "오리온",
+        "std_ratio": 0.51,
+        "current_price": 134000,
+        "update_date": "2026-06-18"
+    },
+    {
+        "code": "272290",
+        "name": "이녹스첨단소재",
+        "std_ratio": 0.44,
+        "current_price": 29100,
+        "update_date": "2026-06-18"
     }
 ]

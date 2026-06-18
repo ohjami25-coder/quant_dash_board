@@ -1,42 +1,114 @@
 [
     {
-        "code": "026960",
-        "name": "동서",
-        "u_score": 44.92,
-        "current_price": 25500,
+        "code": "000660",
+        "name": "SK하이닉스",
+        "u_score": 45.5,
+        "current_price": 2685000,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-06-12"
+        "update_date": "2026-06-18"
     },
     {
-        "code": "030000",
-        "name": "제일기획",
-        "u_score": 45.12,
-        "current_price": 20450,
+        "code": "002380",
+        "name": "KCC",
+        "u_score": 53.37,
+        "current_price": 533000,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-06-12"
+        "update_date": "2026-06-18"
     },
     {
-        "code": "033780",
-        "name": "KT&G",
-        "u_score": 43.83,
-        "current_price": 187800,
+        "code": "005930",
+        "name": "삼성전자",
+        "u_score": 51.67,
+        "current_price": 362500,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-06-12"
+        "update_date": "2026-06-18"
     },
     {
-        "code": "222800",
-        "name": "심텍",
-        "u_score": 59.89,
-        "current_price": 130100,
+        "code": "010140",
+        "name": "삼성중공업",
+        "u_score": 46.3,
+        "current_price": 27700,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-06-12"
+        "update_date": "2026-06-18"
     },
     {
-        "code": "403870",
-        "name": "HPSP",
-        "u_score": 45.6,
-        "current_price": 71500,
+        "code": "011070",
+        "name": "LG이노텍",
+        "u_score": 61.82,
+        "current_price": 1283000,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-06-12"
+        "update_date": "2026-06-18"
+    },
+    {
+        "code": "025980",
+        "name": "아난티",
+        "u_score": 40.71,
+        "current_price": 5190,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-06-18"
+    },
+    {
+        "code": "032830",
+        "name": "삼성생명",
+        "u_score": 48.89,
+        "current_price": 469000,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-06-18"
+    },
+    {
+        "code": "034730",
+        "name": "SK",
+        "u_score": 53.62,
+        "current_price": 687000,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-06-18"
+    },
+    {
+        "code": "035420",
+        "name": "NAVER",
+        "u_score": 40.01,
+        "current_price": 235000,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-06-18"
+    },
+    {
+        "code": "051910",
+        "name": "LG화학",
+        "u_score": 42.89,
+        "current_price": 342500,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-06-18"
+    },
+    {
+        "code": "069500",
+        "name": "kdx200",
+        "u_score": 53.23,
+        "current_price": 146945,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-06-18"
+    },
+    {
+        "code": "108490",
+        "name": "로보티즈",
+        "u_score": 65.13,
+        "current_price": 300500,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-06-18"
+    },
+    {
+        "code": "207940",
+        "name": "삼성바이오로직스",
+        "u_score": 58.54,
+        "current_price": 1430000,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-06-18"
+    },
+    {
+        "code": "383310",
+        "name": "에코프로에이치엔",
+        "u_score": 53.64,
+        "current_price": 33350,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-06-18"
     }
 ]
