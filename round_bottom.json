@@ -1,1 +1,154 @@
-[]
+[
+    {
+        "code": "002840",
+        "name": "미원상사",
+        "u_score": 70.06,
+        "current_price": 122900,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "006040",
+        "name": "동원산업",
+        "u_score": 64.64,
+        "current_price": 33450,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "007660",
+        "name": "이수페타시스",
+        "u_score": 66.31,
+        "current_price": 119800,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "008930",
+        "name": "한미사이언스",
+        "u_score": 64.23,
+        "current_price": 31250,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "009240",
+        "name": "한샘",
+        "u_score": 64.43,
+        "current_price": 33500,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "014680",
+        "name": "한솔케미칼",
+        "u_score": 64.91,
+        "current_price": 275000,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "021240",
+        "name": "코웨이",
+        "u_score": 52.37,
+        "current_price": 96100,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "047810",
+        "name": "한국항공우주",
+        "u_score": 61.17,
+        "current_price": 154200,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "062040",
+        "name": "산일전기",
+        "u_score": 58.69,
+        "current_price": 238000,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "086450",
+        "name": "동국제약",
+        "u_score": 58.23,
+        "current_price": 20450,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "090430",
+        "name": "아모레퍼시픽",
+        "u_score": 57.41,
+        "current_price": 119400,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "112040",
+        "name": "위메이드",
+        "u_score": 40.72,
+        "current_price": 22100,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "131290",
+        "name": "티에스이",
+        "u_score": 60.49,
+        "current_price": 246000,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "180640",
+        "name": "한진칼",
+        "u_score": 56.2,
+        "current_price": 131200,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "195940",
+        "name": "HK이노엔",
+        "u_score": 57.0,
+        "current_price": 41200,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "215200",
+        "name": "메가스터디교육",
+        "u_score": 46.88,
+        "current_price": 40800,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "241710",
+        "name": "코스메카코리아",
+        "u_score": 40.08,
+        "current_price": 84300,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "251970",
+        "name": "펌텍코리아",
+        "u_score": 54.8,
+        "current_price": 38650,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "271560",
+        "name": "오리온",
+        "u_score": 58.74,
+        "current_price": 139000,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-07-02"
+    }
+]

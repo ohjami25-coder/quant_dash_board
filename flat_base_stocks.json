@@ -4,20 +4,6 @@
         "name": "STX",
         "std_ratio": 0.0,
         "current_price": 3530,
-        "update_date": "2026-06-26"
-    },
-    {
-        "code": "021240",
-        "name": "코웨이",
-        "std_ratio": 0.52,
-        "current_price": 85700,
-        "update_date": "2026-06-26"
-    },
-    {
-        "code": "030200",
-        "name": "KT",
-        "std_ratio": 0.48,
-        "current_price": 52200,
-        "update_date": "2026-06-26"
+        "update_date": "2026-07-02"
     }
 ]

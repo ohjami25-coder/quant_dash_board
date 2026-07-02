@@ -1,44 +1,156 @@
 [
     {
-        "code": "005930",
-        "name": "삼성전자",
-        "bottom_diff": 4.91,
-        "current_price": 339500,
-        "update_date": "2026-06-26"
+        "code": "002840",
+        "name": "미원상사",
+        "bottom_diff": 4.74,
+        "current_price": 122900,
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "003230",
+        "name": "삼양식품",
+        "bottom_diff": 0.09,
+        "current_price": 1159000,
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "007660",
+        "name": "이수페타시스",
+        "bottom_diff": 1.51,
+        "current_price": 119800,
+        "update_date": "2026-07-02"
     },
     {
         "code": "009420",
         "name": "한올바이오파마",
         "bottom_diff": 1.6,
-        "current_price": 57800,
-        "update_date": "2026-06-26"
+        "current_price": 62400,
+        "update_date": "2026-07-02"
     },
     {
-        "code": "204270",
-        "name": "제이앤티씨",
-        "bottom_diff": 3.72,
-        "current_price": 17480,
-        "update_date": "2026-06-26"
+        "code": "021240",
+        "name": "코웨이",
+        "bottom_diff": 1.95,
+        "current_price": 96100,
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "062040",
+        "name": "산일전기",
+        "bottom_diff": 0.94,
+        "current_price": 238000,
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "067160",
+        "name": "SOOP",
+        "bottom_diff": 0.55,
+        "current_price": 48600,
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "068270",
+        "name": "셀트리온",
+        "bottom_diff": 0.69,
+        "current_price": 176600,
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "073240",
+        "name": "금호타이어",
+        "bottom_diff": 2.16,
+        "current_price": 4705,
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "086450",
+        "name": "동국제약",
+        "bottom_diff": 2.96,
+        "current_price": 20450,
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "096530",
+        "name": "씨젠",
+        "bottom_diff": 1.46,
+        "current_price": 28950,
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "180640",
+        "name": "한진칼",
+        "bottom_diff": 4.68,
+        "current_price": 131200,
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "195940",
+        "name": "HK이노엔",
+        "bottom_diff": 2.56,
+        "current_price": 41200,
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "207940",
+        "name": "삼성바이오로직스",
+        "bottom_diff": 2.41,
+        "current_price": 1406000,
+        "update_date": "2026-07-02"
     },
     {
         "code": "214150",
         "name": "클래시스",
-        "bottom_diff": 4.29,
-        "current_price": 45200,
-        "update_date": "2026-06-26"
+        "bottom_diff": 4.4,
+        "current_price": 47900,
+        "update_date": "2026-07-02"
     },
     {
-        "code": "290650",
-        "name": "엘앤씨바이오",
-        "bottom_diff": 2.83,
-        "current_price": 88300,
-        "update_date": "2026-06-26"
+        "code": "215200",
+        "name": "메가스터디교육",
+        "bottom_diff": 3.15,
+        "current_price": 40800,
+        "update_date": "2026-07-02"
     },
     {
-        "code": "352480",
-        "name": "씨앤씨인터내셔널",
-        "bottom_diff": 2.29,
-        "current_price": 20600,
-        "update_date": "2026-06-26"
+        "code": "241710",
+        "name": "코스메카코리아",
+        "bottom_diff": 4.77,
+        "current_price": 84300,
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "251970",
+        "name": "펌텍코리아",
+        "bottom_diff": 2.25,
+        "current_price": 38650,
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "268280",
+        "name": "미원에스씨",
+        "bottom_diff": 2.2,
+        "current_price": 105200,
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "271560",
+        "name": "오리온",
+        "bottom_diff": 2.5,
+        "current_price": 139000,
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "298380",
+        "name": "에이비엘바이오",
+        "bottom_diff": 0.11,
+        "current_price": 97000,
+        "update_date": "2026-07-02"
+    },
+    {
+        "code": "383310",
+        "name": "에코프로에이치엔",
+        "bottom_diff": 2.24,
+        "current_price": 29000,
+        "update_date": "2026-07-02"
     }
 ]
