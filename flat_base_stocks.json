@@ -1,9 +1,44 @@
 [
     {
+        "code": "003550",
+        "name": "LG",
+        "std_ratio": 0.59,
+        "current_price": 101300,
+        "update_date": "2026-07-09"
+    },
+    {
         "code": "011810",
         "name": "STX",
         "std_ratio": 0.0,
         "current_price": 3530,
-        "update_date": "2026-07-03"
+        "update_date": "2026-07-09"
+    },
+    {
+        "code": "053800",
+        "name": "안랩",
+        "std_ratio": 0.22,
+        "current_price": 53600,
+        "update_date": "2026-07-09"
+    },
+    {
+        "code": "105560",
+        "name": "KB금융",
+        "std_ratio": 0.6,
+        "current_price": 171400,
+        "update_date": "2026-07-09"
+    },
+    {
+        "code": "138040",
+        "name": "메리츠금융지주",
+        "std_ratio": 0.63,
+        "current_price": 112900,
+        "update_date": "2026-07-09"
+    },
+    {
+        "code": "185750",
+        "name": "종근당",
+        "std_ratio": 0.64,
+        "current_price": 69800,
+        "update_date": "2026-07-09"
     }
 ]
