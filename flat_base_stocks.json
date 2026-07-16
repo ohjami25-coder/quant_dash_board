@@ -1,23 +1,58 @@
 [
     {
-        "code": "003550",
-        "name": "LG",
-        "std_ratio": 0.55,
-        "current_price": 101300,
-        "update_date": "2026-07-10"
+        "code": "001680",
+        "name": "대상",
+        "std_ratio": 0.63,
+        "current_price": 17260,
+        "update_date": "2026-07-16"
+    },
+    {
+        "code": "006650",
+        "name": "대한유화",
+        "std_ratio": 0.51,
+        "current_price": 105400,
+        "update_date": "2026-07-16"
+    },
+    {
+        "code": "009240",
+        "name": "한샘",
+        "std_ratio": 0.64,
+        "current_price": 35400,
+        "update_date": "2026-07-16"
     },
     {
         "code": "011810",
         "name": "STX",
         "std_ratio": 0.0,
         "current_price": 3530,
-        "update_date": "2026-07-10"
+        "update_date": "2026-07-16"
     },
     {
-        "code": "185750",
-        "name": "종근당",
-        "std_ratio": 0.59,
-        "current_price": 70200,
-        "update_date": "2026-07-10"
+        "code": "017800",
+        "name": "현대엘리베이터",
+        "std_ratio": 0.46,
+        "current_price": 68900,
+        "update_date": "2026-07-16"
+    },
+    {
+        "code": "030000",
+        "name": "제일기획",
+        "std_ratio": 0.55,
+        "current_price": 18610,
+        "update_date": "2026-07-16"
+    },
+    {
+        "code": "068270",
+        "name": "셀트리온",
+        "std_ratio": 0.62,
+        "current_price": 175800,
+        "update_date": "2026-07-16"
+    },
+    {
+        "code": "086450",
+        "name": "동국제약",
+        "std_ratio": 0.41,
+        "current_price": 19290,
+        "update_date": "2026-07-16"
     }
 ]
