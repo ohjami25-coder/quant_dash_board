@@ -1,74 +1,122 @@
 [
     {
-        "code": "007340",
-        "name": "DN오토모티브",
-        "u_score": 55.6,
-        "current_price": 40800,
+        "code": "000240",
+        "name": "한국앤컴퍼니",
+        "u_score": 67.97,
+        "current_price": 25450,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-07-17"
+        "update_date": "2026-07-23"
     },
     {
-        "code": "011780",
-        "name": "금호석유화학",
-        "u_score": 42.7,
-        "current_price": 123500,
+        "code": "000270",
+        "name": "기아",
+        "u_score": 70.57,
+        "current_price": 149800,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-07-17"
+        "update_date": "2026-07-23"
     },
     {
-        "code": "036930",
-        "name": "주성엔지니어링",
-        "u_score": 53.19,
-        "current_price": 187900,
+        "code": "006040",
+        "name": "동원산업",
+        "u_score": 62.88,
+        "current_price": 34350,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-07-17"
+        "update_date": "2026-07-23"
     },
     {
-        "code": "095610",
-        "name": "테스",
-        "u_score": 45.66,
-        "current_price": 194300,
+        "code": "006360",
+        "name": "GS건설",
+        "u_score": 55.68,
+        "current_price": 34400,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-07-17"
+        "update_date": "2026-07-23"
     },
     {
-        "code": "096530",
-        "name": "씨젠",
-        "u_score": 64.02,
-        "current_price": 28550,
+        "code": "009540",
+        "name": "HD한국조선해양",
+        "u_score": 59.68,
+        "current_price": 381000,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-07-17"
+        "update_date": "2026-07-23"
     },
     {
-        "code": "207940",
-        "name": "삼성바이오로직스",
-        "u_score": 49.18,
-        "current_price": 1396000,
+        "code": "012330",
+        "name": "현대모비스",
+        "u_score": 59.28,
+        "current_price": 524000,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-07-17"
+        "update_date": "2026-07-23"
     },
     {
-        "code": "214450",
-        "name": "파마리서치",
-        "u_score": 73.98,
-        "current_price": 336500,
+        "code": "018260",
+        "name": "삼성에스디에스",
+        "u_score": 40.47,
+        "current_price": 218000,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-07-17"
+        "update_date": "2026-07-23"
     },
     {
-        "code": "237690",
-        "name": "에스티팜",
-        "u_score": 59.43,
-        "current_price": 124300,
+        "code": "026960",
+        "name": "동서",
+        "u_score": 52.12,
+        "current_price": 25850,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-07-17"
+        "update_date": "2026-07-23"
     },
     {
-        "code": "319660",
-        "name": "피에스케이",
-        "u_score": 52.59,
-        "current_price": 195400,
+        "code": "035420",
+        "name": "NAVER",
+        "u_score": 57.96,
+        "current_price": 220000,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-07-17"
+        "update_date": "2026-07-23"
+    },
+    {
+        "code": "047810",
+        "name": "한국항공우주",
+        "u_score": 67.85,
+        "current_price": 164100,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-07-23"
+    },
+    {
+        "code": "051900",
+        "name": "LG생활건강",
+        "u_score": 58.32,
+        "current_price": 248000,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-07-23"
+    },
+    {
+        "code": "071970",
+        "name": "HD현대마린엔진",
+        "u_score": 46.04,
+        "current_price": 67700,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-07-23"
+    },
+    {
+        "code": "086280",
+        "name": "현대글로비스",
+        "u_score": 62.81,
+        "current_price": 204500,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-07-23"
+    },
+    {
+        "code": "241560",
+        "name": "두산밥캣",
+        "u_score": 42.52,
+        "current_price": 69300,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-07-23"
+    },
+    {
+        "code": "267250",
+        "name": "HD현대",
+        "u_score": 46.5,
+        "current_price": 231500,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-07-23"
     }
 ]
