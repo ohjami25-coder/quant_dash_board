@@ -4,41 +4,6 @@
         "name": "STX",
         "std_ratio": 0.0,
         "current_price": 3530,
-        "update_date": "2026-07-23"
-    },
-    {
-        "code": "030000",
-        "name": "제일기획",
-        "std_ratio": 0.5,
-        "current_price": 18790,
-        "update_date": "2026-07-23"
-    },
-    {
-        "code": "033780",
-        "name": "KT&G",
-        "std_ratio": 0.68,
-        "current_price": 179600,
-        "update_date": "2026-07-23"
-    },
-    {
-        "code": "051900",
-        "name": "LG생활건강",
-        "std_ratio": 0.56,
-        "current_price": 248000,
-        "update_date": "2026-07-23"
-    },
-    {
-        "code": "214150",
-        "name": "클래시스",
-        "std_ratio": 0.67,
-        "current_price": 44250,
-        "update_date": "2026-07-23"
-    },
-    {
-        "code": "271560",
-        "name": "오리온",
-        "std_ratio": 0.59,
-        "current_price": 129300,
-        "update_date": "2026-07-23"
+        "update_date": "2026-07-24"
     }
 ]
