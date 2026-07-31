@@ -4,20 +4,20 @@
         "name": "STX",
         "std_ratio": 0.0,
         "current_price": 3530,
-        "update_date": "2026-07-30"
+        "update_date": "2026-07-31"
     },
     {
         "code": "021240",
         "name": "코웨이",
-        "std_ratio": 0.64,
-        "current_price": 91200,
-        "update_date": "2026-07-30"
+        "std_ratio": 0.6,
+        "current_price": 91500,
+        "update_date": "2026-07-31"
     },
     {
-        "code": "035250",
-        "name": "강원랜드",
-        "std_ratio": 0.47,
-        "current_price": 14560,
-        "update_date": "2026-07-30"
+        "code": "282330",
+        "name": "BGF리테일",
+        "std_ratio": 0.64,
+        "current_price": 125000,
+        "update_date": "2026-07-31"
     }
 ]

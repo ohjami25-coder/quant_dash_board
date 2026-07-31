@@ -1,18 +1,1 @@
-[
-    {
-        "code": "280360",
-        "name": "롯데웰푸드",
-        "u_score": 43.38,
-        "current_price": 106000,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-07-30"
-    },
-    {
-        "code": "282330",
-        "name": "BGF리테일",
-        "u_score": 53.95,
-        "current_price": 126400,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-07-30"
-    }
-]
+[]
