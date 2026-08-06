@@ -1,23 +1,58 @@
 [
     {
+        "code": "000880",
+        "name": "한화",
+        "std_ratio": 0.0,
+        "current_price": 83800,
+        "update_date": "2026-08-06"
+    },
+    {
         "code": "011810",
         "name": "STX",
         "std_ratio": 0.0,
         "current_price": 3530,
-        "update_date": "2026-07-31"
+        "update_date": "2026-08-06"
     },
     {
-        "code": "021240",
-        "name": "코웨이",
-        "std_ratio": 0.6,
-        "current_price": 91500,
-        "update_date": "2026-07-31"
+        "code": "032640",
+        "name": "LG유플러스",
+        "std_ratio": 0.51,
+        "current_price": 15000,
+        "update_date": "2026-08-06"
     },
     {
-        "code": "282330",
-        "name": "BGF리테일",
-        "std_ratio": 0.64,
-        "current_price": 125000,
-        "update_date": "2026-07-31"
+        "code": "034310",
+        "name": "nice지주",
+        "std_ratio": 0.44,
+        "current_price": 12720,
+        "update_date": "2026-08-06"
+    },
+    {
+        "code": "105560",
+        "name": "KB금융",
+        "std_ratio": 0.66,
+        "current_price": 171500,
+        "update_date": "2026-08-06"
+    },
+    {
+        "code": "114090",
+        "name": "GKL",
+        "std_ratio": 0.69,
+        "current_price": 9310,
+        "update_date": "2026-08-06"
+    },
+    {
+        "code": "138930",
+        "name": "BNK금융지주",
+        "std_ratio": 0.66,
+        "current_price": 14920,
+        "update_date": "2026-08-06"
+    },
+    {
+        "code": "183300",
+        "name": "코미코",
+        "std_ratio": 0.0,
+        "current_price": 54400,
+        "update_date": "2026-08-06"
     }
 ]
