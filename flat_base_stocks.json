@@ -4,55 +4,62 @@
         "name": "한화",
         "std_ratio": 0.0,
         "current_price": 83800,
-        "update_date": "2026-08-07"
+        "update_date": "2026-08-13"
+    },
+    {
+        "code": "004490",
+        "name": "세방전지",
+        "std_ratio": 0.52,
+        "current_price": 55300,
+        "update_date": "2026-08-13"
     },
     {
         "code": "011810",
         "name": "STX",
         "std_ratio": 0.0,
         "current_price": 3530,
-        "update_date": "2026-08-07"
+        "update_date": "2026-08-13"
     },
     {
-        "code": "032640",
-        "name": "LG유플러스",
-        "std_ratio": 0.35,
-        "current_price": 14960,
-        "update_date": "2026-08-07"
+        "code": "030200",
+        "name": "KT",
+        "std_ratio": 0.6,
+        "current_price": 52500,
+        "update_date": "2026-08-13"
     },
     {
-        "code": "034310",
-        "name": "nice지주",
-        "std_ratio": 0.64,
-        "current_price": 12960,
-        "update_date": "2026-08-07"
+        "code": "051910",
+        "name": "LG화학",
+        "std_ratio": 0.47,
+        "current_price": 275500,
+        "update_date": "2026-08-13"
     },
     {
-        "code": "071320",
-        "name": "지역난방공사",
-        "std_ratio": 0.53,
-        "current_price": 64500,
-        "update_date": "2026-08-07"
+        "code": "058970",
+        "name": "엠로",
+        "std_ratio": 0.69,
+        "current_price": 16070,
+        "update_date": "2026-08-13"
     },
     {
-        "code": "138930",
-        "name": "BNK금융지주",
-        "std_ratio": 0.62,
-        "current_price": 15150,
-        "update_date": "2026-08-07"
+        "code": "180640",
+        "name": "한진칼",
+        "std_ratio": 0.7,
+        "current_price": 119000,
+        "update_date": "2026-08-13"
     },
     {
         "code": "183300",
         "name": "코미코",
         "std_ratio": 0.0,
         "current_price": 54400,
-        "update_date": "2026-08-07"
+        "update_date": "2026-08-13"
     },
     {
-        "code": "215200",
-        "name": "메가스터디교육",
-        "std_ratio": 0.62,
-        "current_price": 41150,
-        "update_date": "2026-08-07"
+        "code": "192080",
+        "name": "더블유게임즈",
+        "std_ratio": 0.4,
+        "current_price": 61700,
+        "update_date": "2026-08-13"
     }
 ]
