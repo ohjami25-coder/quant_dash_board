@@ -4,62 +4,146 @@
         "name": "한화",
         "std_ratio": 0.0,
         "current_price": 83800,
-        "update_date": "2026-08-13"
+        "update_date": "2026-08-14"
     },
     {
-        "code": "004490",
-        "name": "세방전지",
-        "std_ratio": 0.52,
-        "current_price": 55300,
-        "update_date": "2026-08-13"
+        "code": "005940",
+        "name": "NH투자증권",
+        "std_ratio": 0.62,
+        "current_price": 28750,
+        "update_date": "2026-08-14"
+    },
+    {
+        "code": "009520",
+        "name": "포스코엠텍",
+        "std_ratio": 0.44,
+        "current_price": 12400,
+        "update_date": "2026-08-14"
     },
     {
         "code": "011810",
         "name": "STX",
         "std_ratio": 0.0,
         "current_price": 3530,
-        "update_date": "2026-08-13"
+        "update_date": "2026-08-14"
+    },
+    {
+        "code": "024110",
+        "name": "기업은행",
+        "std_ratio": 0.65,
+        "current_price": 20400,
+        "update_date": "2026-08-14"
+    },
+    {
+        "code": "030000",
+        "name": "제일기획",
+        "std_ratio": 0.61,
+        "current_price": 18980,
+        "update_date": "2026-08-14"
     },
     {
         "code": "030200",
         "name": "KT",
-        "std_ratio": 0.6,
-        "current_price": 52500,
-        "update_date": "2026-08-13"
+        "std_ratio": 0.66,
+        "current_price": 53400,
+        "update_date": "2026-08-14"
     },
     {
-        "code": "051910",
-        "name": "LG화학",
-        "std_ratio": 0.47,
-        "current_price": 275500,
-        "update_date": "2026-08-13"
-    },
-    {
-        "code": "058970",
-        "name": "엠로",
+        "code": "034230",
+        "name": "파라다이스",
         "std_ratio": 0.69,
-        "current_price": 16070,
-        "update_date": "2026-08-13"
+        "current_price": 9890,
+        "update_date": "2026-08-14"
     },
     {
-        "code": "180640",
-        "name": "한진칼",
-        "std_ratio": 0.7,
-        "current_price": 119000,
-        "update_date": "2026-08-13"
+        "code": "035250",
+        "name": "강원랜드",
+        "std_ratio": 0.65,
+        "current_price": 14590,
+        "update_date": "2026-08-14"
+    },
+    {
+        "code": "039490",
+        "name": "키움증권",
+        "std_ratio": 0.45,
+        "current_price": 300500,
+        "update_date": "2026-08-14"
+    },
+    {
+        "code": "041440",
+        "name": "현대에버다임",
+        "std_ratio": 0.33,
+        "current_price": 6500,
+        "update_date": "2026-08-14"
+    },
+    {
+        "code": "058470",
+        "name": "리노공업",
+        "std_ratio": 0.46,
+        "current_price": 70800,
+        "update_date": "2026-08-14"
+    },
+    {
+        "code": "069260",
+        "name": "TKG휴켐스",
+        "std_ratio": 0.62,
+        "current_price": 16350,
+        "update_date": "2026-08-14"
+    },
+    {
+        "code": "090430",
+        "name": "아모레퍼시픽",
+        "std_ratio": 0.66,
+        "current_price": 135700,
+        "update_date": "2026-08-14"
+    },
+    {
+        "code": "101490",
+        "name": "에스앤에스텍",
+        "std_ratio": 0.58,
+        "current_price": 44500,
+        "update_date": "2026-08-14"
     },
     {
         "code": "183300",
         "name": "코미코",
         "std_ratio": 0.0,
         "current_price": 54400,
-        "update_date": "2026-08-13"
+        "update_date": "2026-08-14"
     },
     {
         "code": "192080",
         "name": "더블유게임즈",
-        "std_ratio": 0.4,
-        "current_price": 61700,
-        "update_date": "2026-08-13"
+        "std_ratio": 0.24,
+        "current_price": 61600,
+        "update_date": "2026-08-14"
+    },
+    {
+        "code": "237690",
+        "name": "에스티팜",
+        "std_ratio": 0.58,
+        "current_price": 106400,
+        "update_date": "2026-08-14"
+    },
+    {
+        "code": "272290",
+        "name": "이녹스첨단소재",
+        "std_ratio": 0.63,
+        "current_price": 22700,
+        "update_date": "2026-08-14"
+    },
+    {
+        "code": "278280",
+        "name": "천보",
+        "std_ratio": 0.67,
+        "current_price": 37800,
+        "update_date": "2026-08-14"
+    },
+    {
+        "code": "375500",
+        "name": "DL이앤씨",
+        "std_ratio": 0.5,
+        "current_price": 73800,
+        "update_date": "2026-08-14"
     }
 ]
