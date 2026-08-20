@@ -1,443 +1,128 @@
 [
     {
-        "code": "000080",
-        "name": "하이트진로",
-        "bottom_diff": 2.94,
-        "current_price": 15850,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "000120",
-        "name": "CJ대한통운",
-        "bottom_diff": 4.53,
-        "current_price": 77200,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "000240",
-        "name": "한국앤컴퍼니",
-        "bottom_diff": 2.46,
-        "current_price": 26250,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "001450",
-        "name": "현대해상",
-        "bottom_diff": 0.0,
-        "current_price": 45350,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "001680",
-        "name": "대상",
-        "bottom_diff": 3.43,
-        "current_price": 18370,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "001800",
-        "name": "오리온홀딩스",
-        "bottom_diff": 1.2,
-        "current_price": 26800,
-        "update_date": "2026-08-14"
+        "code": "002790",
+        "name": "아모레퍼시픽홀딩스",
+        "bottom_diff": 3.93,
+        "current_price": 25900,
+        "update_date": "2026-08-20"
     },
     {
         "code": "002840",
         "name": "미원상사",
-        "bottom_diff": 1.66,
-        "current_price": 129400,
-        "update_date": "2026-08-14"
+        "bottom_diff": 2.45,
+        "current_price": 121700,
+        "update_date": "2026-08-20"
     },
     {
         "code": "003090",
         "name": "대웅",
-        "bottom_diff": 2.02,
-        "current_price": 18110,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "004000",
-        "name": "롯데정밀화학",
-        "bottom_diff": 1.86,
-        "current_price": 47100,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "004020",
-        "name": "현대제철",
-        "bottom_diff": 1.22,
-        "current_price": 29900,
-        "update_date": "2026-08-14"
+        "bottom_diff": 3.76,
+        "current_price": 16700,
+        "update_date": "2026-08-20"
     },
     {
         "code": "004990",
         "name": "롯데지주",
-        "bottom_diff": 3.46,
-        "current_price": 24300,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "005250",
-        "name": "녹십자홀딩스",
-        "bottom_diff": 3.87,
-        "current_price": 10750,
-        "update_date": "2026-08-14"
+        "bottom_diff": 4.62,
+        "current_price": 22750,
+        "update_date": "2026-08-20"
     },
     {
         "code": "005830",
         "name": "DB손해보험",
-        "bottom_diff": 0.06,
-        "current_price": 176800,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "006280",
-        "name": "녹십자",
-        "bottom_diff": 0.09,
-        "current_price": 129200,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "007070",
-        "name": "GS리테일",
-        "bottom_diff": 0.2,
-        "current_price": 27700,
-        "update_date": "2026-08-14"
+        "bottom_diff": 2.78,
+        "current_price": 177400,
+        "update_date": "2026-08-20"
     },
     {
         "code": "007310",
         "name": "오뚜기",
-        "bottom_diff": 4.74,
-        "current_price": 337000,
-        "update_date": "2026-08-14"
+        "bottom_diff": 1.91,
+        "current_price": 323500,
+        "update_date": "2026-08-20"
     },
     {
         "code": "007390",
         "name": "네이처셀",
-        "bottom_diff": 3.86,
+        "bottom_diff": 3.31,
         "current_price": 23400,
-        "update_date": "2026-08-14"
+        "update_date": "2026-08-20"
     },
     {
         "code": "010950",
         "name": "S-Oil",
-        "bottom_diff": 3.72,
-        "current_price": 147600,
-        "update_date": "2026-08-14"
+        "bottom_diff": 2.63,
+        "current_price": 142600,
+        "update_date": "2026-08-20"
     },
     {
-        "code": "011200",
-        "name": "HMM",
-        "bottom_diff": 3.75,
-        "current_price": 21250,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "011780",
-        "name": "금호석유화학",
-        "bottom_diff": 2.73,
-        "current_price": 130600,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "012750",
-        "name": "에스원",
-        "bottom_diff": 2.57,
-        "current_price": 77700,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "017670",
-        "name": "SK텔레콤",
-        "bottom_diff": 4.86,
-        "current_price": 100500,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "017800",
-        "name": "현대엘리베이터",
-        "bottom_diff": 4.15,
-        "current_price": 72500,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "018880",
-        "name": "한온시스템",
-        "bottom_diff": 2.85,
-        "current_price": 3820,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "021240",
-        "name": "코웨이",
-        "bottom_diff": 1.77,
-        "current_price": 98200,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "026960",
-        "name": "동서",
-        "bottom_diff": 1.82,
-        "current_price": 26300,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "028670",
-        "name": "팬오션",
-        "bottom_diff": 0.0,
-        "current_price": 5790,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "030000",
-        "name": "제일기획",
-        "bottom_diff": 0.92,
-        "current_price": 18980,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "032640",
-        "name": "LG유플러스",
-        "bottom_diff": 2.08,
-        "current_price": 15060,
-        "update_date": "2026-08-14"
+        "code": "032830",
+        "name": "삼성생명",
+        "bottom_diff": 4.36,
+        "current_price": 297000,
+        "update_date": "2026-08-20"
     },
     {
         "code": "034310",
         "name": "nice지주",
         "bottom_diff": 2.01,
-        "current_price": 12990,
-        "update_date": "2026-08-14"
+        "current_price": 13290,
+        "update_date": "2026-08-20"
     },
     {
-        "code": "035250",
-        "name": "강원랜드",
-        "bottom_diff": 0.5,
-        "current_price": 14590,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "053800",
-        "name": "안랩",
-        "bottom_diff": 4.42,
-        "current_price": 59300,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "055550",
-        "name": "신한지주",
-        "bottom_diff": 4.07,
-        "current_price": 107400,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "069260",
-        "name": "TKG휴켐스",
-        "bottom_diff": 1.87,
-        "current_price": 16350,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "069620",
-        "name": "대웅제약",
-        "bottom_diff": 0.18,
-        "current_price": 124600,
-        "update_date": "2026-08-14"
+        "code": "036460",
+        "name": "한국가스공사",
+        "bottom_diff": 4.04,
+        "current_price": 36350,
+        "update_date": "2026-08-20"
     },
     {
         "code": "071320",
         "name": "지역난방공사",
-        "bottom_diff": 2.75,
-        "current_price": 76400,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "071970",
-        "name": "HD현대마린엔진",
-        "bottom_diff": 4.38,
-        "current_price": 58200,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "078930",
-        "name": "GS",
-        "bottom_diff": 2.55,
-        "current_price": 117000,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "082740",
-        "name": "한화엔진",
-        "bottom_diff": 1.81,
-        "current_price": 49050,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "086450",
-        "name": "동국제약",
-        "bottom_diff": 3.11,
-        "current_price": 19720,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "088350",
-        "name": "한화생명",
         "bottom_diff": 4.05,
-        "current_price": 5630,
-        "update_date": "2026-08-14"
+        "current_price": 72900,
+        "update_date": "2026-08-20"
     },
     {
         "code": "096770",
         "name": "SK이노베이션",
-        "bottom_diff": 1.37,
-        "current_price": 128700,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "114090",
-        "name": "GKL",
-        "bottom_diff": 0.22,
-        "current_price": 9400,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "122870",
-        "name": "와이지엔터테인먼트",
-        "bottom_diff": 3.91,
-        "current_price": 41050,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "140860",
-        "name": "파크시스템스",
-        "bottom_diff": 3.74,
-        "current_price": 279500,
-        "update_date": "2026-08-14"
+        "bottom_diff": 0.56,
+        "current_price": 125900,
+        "update_date": "2026-08-20"
     },
     {
         "code": "161390",
         "name": "한국타이어앤테크놀로지",
         "bottom_diff": 0.61,
-        "current_price": 71600,
-        "update_date": "2026-08-14"
+        "current_price": 66500,
+        "update_date": "2026-08-20"
     },
     {
-        "code": "161890",
-        "name": "한국콜마",
-        "bottom_diff": 3.86,
-        "current_price": 136700,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "185750",
-        "name": "종근당",
-        "bottom_diff": 1.07,
-        "current_price": 68300,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "192080",
-        "name": "더블유게임즈",
-        "bottom_diff": 3.25,
-        "current_price": 61600,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "195940",
-        "name": "HK이노엔",
-        "bottom_diff": 4.01,
-        "current_price": 41650,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "200130",
-        "name": "콜마비앤에이치",
-        "bottom_diff": 0.75,
-        "current_price": 10050,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "241560",
-        "name": "두산밥캣",
-        "bottom_diff": 4.86,
-        "current_price": 66100,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "241710",
-        "name": "코스메카코리아",
-        "bottom_diff": 3.93,
-        "current_price": 127200,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "247540",
-        "name": "에코프로비엠",
-        "bottom_diff": 4.54,
-        "current_price": 116700,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "257720",
-        "name": "실리콘투",
-        "bottom_diff": 4.39,
-        "current_price": 42850,
-        "update_date": "2026-08-14"
+        "code": "225570",
+        "name": "넥슨게임즈",
+        "bottom_diff": 4.31,
+        "current_price": 9210,
+        "update_date": "2026-08-20"
     },
     {
         "code": "268280",
         "name": "미원에스씨",
-        "bottom_diff": 1.5,
-        "current_price": 132500,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "271560",
-        "name": "오리온",
-        "bottom_diff": 2.6,
-        "current_price": 134000,
-        "update_date": "2026-08-14"
+        "bottom_diff": 3.04,
+        "current_price": 124000,
+        "update_date": "2026-08-20"
     },
     {
         "code": "280360",
         "name": "롯데웰푸드",
-        "bottom_diff": 1.41,
-        "current_price": 129300,
-        "update_date": "2026-08-14"
+        "bottom_diff": 3.17,
+        "current_price": 128000,
+        "update_date": "2026-08-20"
     },
     {
-        "code": "282330",
-        "name": "BGF리테일",
-        "bottom_diff": 4.72,
-        "current_price": 145200,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "300720",
-        "name": "한일시멘트",
-        "bottom_diff": 1.69,
-        "current_price": 14900,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "323410",
-        "name": "카카오뱅크",
-        "bottom_diff": 1.89,
-        "current_price": 22200,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "326030",
-        "name": "SK바이오팜",
-        "bottom_diff": 3.7,
-        "current_price": 87300,
-        "update_date": "2026-08-14"
-    },
-    {
-        "code": "443060",
-        "name": "HD현대마린솔루션",
-        "bottom_diff": 1.22,
-        "current_price": 196800,
-        "update_date": "2026-08-14"
+        "code": "377300",
+        "name": "카카오페이",
+        "bottom_diff": 4.83,
+        "current_price": 44950,
+        "update_date": "2026-08-20"
     }
 ]
