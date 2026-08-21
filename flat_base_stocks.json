@@ -4,41 +4,20 @@
         "name": "한화",
         "std_ratio": 0.0,
         "current_price": 83800,
-        "update_date": "2026-08-20"
+        "update_date": "2026-08-21"
     },
     {
         "code": "011810",
         "name": "STX",
         "std_ratio": 0.0,
         "current_price": 3530,
-        "update_date": "2026-08-20"
+        "update_date": "2026-08-21"
     },
     {
         "code": "030000",
         "name": "제일기획",
-        "std_ratio": 0.5,
-        "current_price": 18800,
-        "update_date": "2026-08-20"
-    },
-    {
-        "code": "036460",
-        "name": "한국가스공사",
-        "std_ratio": 0.69,
-        "current_price": 36350,
-        "update_date": "2026-08-20"
-    },
-    {
-        "code": "183300",
-        "name": "코미코",
-        "std_ratio": 0.0,
-        "current_price": 54400,
-        "update_date": "2026-08-20"
-    },
-    {
-        "code": "282330",
-        "name": "BGF리테일",
-        "std_ratio": 0.66,
-        "current_price": 142800,
-        "update_date": "2026-08-20"
+        "std_ratio": 0.42,
+        "current_price": 18900,
+        "update_date": "2026-08-21"
     }
 ]
