@@ -1,107 +1,198 @@
 [
     {
-        "code": "002840",
-        "name": "미원상사",
-        "bottom_diff": 2.45,
-        "current_price": 124300,
-        "update_date": "2026-08-21"
+        "code": "000810",
+        "name": "삼성화재",
+        "bottom_diff": 0.81,
+        "current_price": 682000,
+        "update_date": "2026-08-27"
     },
     {
-        "code": "003230",
-        "name": "삼양식품",
-        "bottom_diff": 4.6,
-        "current_price": 1366000,
-        "update_date": "2026-08-21"
+        "code": "000880",
+        "name": "한화",
+        "bottom_diff": 0.0,
+        "current_price": 130200,
+        "update_date": "2026-08-27"
+    },
+    {
+        "code": "002030",
+        "name": "아세아",
+        "bottom_diff": 1.5,
+        "current_price": 207000,
+        "update_date": "2026-08-27"
+    },
+    {
+        "code": "002790",
+        "name": "아모레퍼시픽홀딩스",
+        "bottom_diff": 0.59,
+        "current_price": 26300,
+        "update_date": "2026-08-27"
+    },
+    {
+        "code": "002840",
+        "name": "미원상사",
+        "bottom_diff": 2.79,
+        "current_price": 135800,
+        "update_date": "2026-08-27"
+    },
+    {
+        "code": "003490",
+        "name": "대한항공",
+        "bottom_diff": 1.62,
+        "current_price": 28200,
+        "update_date": "2026-08-27"
     },
     {
         "code": "004990",
         "name": "롯데지주",
-        "bottom_diff": 4.62,
-        "current_price": 22800,
-        "update_date": "2026-08-21"
+        "bottom_diff": 2.72,
+        "current_price": 23800,
+        "update_date": "2026-08-27"
     },
     {
-        "code": "005830",
-        "name": "DB손해보험",
-        "bottom_diff": 2.78,
-        "current_price": 177800,
-        "update_date": "2026-08-21"
+        "code": "005490",
+        "name": "POSCO홀딩스",
+        "bottom_diff": 3.16,
+        "current_price": 339500,
+        "update_date": "2026-08-27"
+    },
+    {
+        "code": "006040",
+        "name": "동원산업",
+        "bottom_diff": 4.69,
+        "current_price": 37750,
+        "update_date": "2026-08-27"
     },
     {
         "code": "007310",
         "name": "오뚜기",
-        "bottom_diff": 1.27,
-        "current_price": 323000,
-        "update_date": "2026-08-21"
+        "bottom_diff": 0.16,
+        "current_price": 326000,
+        "update_date": "2026-08-27"
+    },
+    {
+        "code": "011200",
+        "name": "HMM",
+        "bottom_diff": 1.94,
+        "current_price": 21450,
+        "update_date": "2026-08-27"
+    },
+    {
+        "code": "014820",
+        "name": "동원시스템즈",
+        "bottom_diff": 1.49,
+        "current_price": 21600,
+        "update_date": "2026-08-27"
     },
     {
         "code": "021240",
         "name": "코웨이",
-        "bottom_diff": 3.09,
-        "current_price": 95900,
-        "update_date": "2026-08-21"
+        "bottom_diff": 2.41,
+        "current_price": 98300,
+        "update_date": "2026-08-27"
+    },
+    {
+        "code": "026960",
+        "name": "동서",
+        "bottom_diff": 1.19,
+        "current_price": 25850,
+        "update_date": "2026-08-27"
+    },
+    {
+        "code": "030000",
+        "name": "제일기획",
+        "bottom_diff": 0.05,
+        "current_price": 19000,
+        "update_date": "2026-08-27"
+    },
+    {
+        "code": "030200",
+        "name": "KT",
+        "bottom_diff": 0.39,
+        "current_price": 53900,
+        "update_date": "2026-08-27"
     },
     {
         "code": "032830",
         "name": "삼성생명",
-        "bottom_diff": 4.36,
-        "current_price": 328500,
-        "update_date": "2026-08-21"
+        "bottom_diff": 4.55,
+        "current_price": 307000,
+        "update_date": "2026-08-27"
     },
     {
         "code": "034310",
         "name": "nice지주",
-        "bottom_diff": 2.01,
-        "current_price": 13170,
-        "update_date": "2026-08-21"
+        "bottom_diff": 0.24,
+        "current_price": 13380,
+        "update_date": "2026-08-27"
+    },
+    {
+        "code": "051600",
+        "name": "한전KPS",
+        "bottom_diff": 0.81,
+        "current_price": 46900,
+        "update_date": "2026-08-27"
     },
     {
         "code": "055550",
         "name": "신한지주",
-        "bottom_diff": 2.85,
-        "current_price": 104100,
-        "update_date": "2026-08-21"
+        "bottom_diff": 0.4,
+        "current_price": 108800,
+        "update_date": "2026-08-27"
     },
     {
-        "code": "071320",
-        "name": "지역난방공사",
-        "bottom_diff": 4.37,
-        "current_price": 72500,
-        "update_date": "2026-08-21"
+        "code": "069620",
+        "name": "대웅제약",
+        "bottom_diff": 3.95,
+        "current_price": 124900,
+        "update_date": "2026-08-27"
+    },
+    {
+        "code": "086280",
+        "name": "현대글로비스",
+        "bottom_diff": 2.61,
+        "current_price": 203500,
+        "update_date": "2026-08-27"
     },
     {
         "code": "086790",
         "name": "하나금융지주",
-        "bottom_diff": 2.49,
-        "current_price": 128800,
-        "update_date": "2026-08-21"
+        "bottom_diff": 0.96,
+        "current_price": 133600,
+        "update_date": "2026-08-27"
+    },
+    {
+        "code": "090430",
+        "name": "아모레퍼시픽",
+        "bottom_diff": 1.85,
+        "current_price": 142400,
+        "update_date": "2026-08-27"
+    },
+    {
+        "code": "096770",
+        "name": "SK이노베이션",
+        "bottom_diff": 2.96,
+        "current_price": 112000,
+        "update_date": "2026-08-27"
     },
     {
         "code": "183300",
         "name": "코미코",
         "bottom_diff": 0.0,
-        "current_price": 27700,
-        "update_date": "2026-08-21"
+        "current_price": 25450,
+        "update_date": "2026-08-27"
     },
     {
         "code": "225570",
         "name": "넥슨게임즈",
         "bottom_diff": 4.07,
-        "current_price": 9080,
-        "update_date": "2026-08-21"
-    },
-    {
-        "code": "268280",
-        "name": "미원에스씨",
-        "bottom_diff": 4.16,
-        "current_price": 131400,
-        "update_date": "2026-08-21"
+        "current_price": 11000,
+        "update_date": "2026-08-27"
     },
     {
         "code": "377300",
         "name": "카카오페이",
-        "bottom_diff": 4.83,
-        "current_price": 42500,
-        "update_date": "2026-08-21"
+        "bottom_diff": 3.38,
+        "current_price": 46900,
+        "update_date": "2026-08-27"
     }
 ]
