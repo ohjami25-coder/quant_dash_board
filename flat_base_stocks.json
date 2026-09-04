@@ -2,92 +2,134 @@
     {
         "code": "000080",
         "name": "하이트진로",
-        "std_ratio": 0.45,
-        "current_price": 15590,
-        "update_date": "2026-09-03"
+        "std_ratio": 0.21,
+        "current_price": 15540,
+        "update_date": "2026-09-04"
+    },
+    {
+        "code": "000240",
+        "name": "한국앤컴퍼니",
+        "std_ratio": 0.66,
+        "current_price": 24550,
+        "update_date": "2026-09-04"
+    },
+    {
+        "code": "001800",
+        "name": "오리온홀딩스",
+        "std_ratio": 0.62,
+        "current_price": 25550,
+        "update_date": "2026-09-04"
+    },
+    {
+        "code": "006040",
+        "name": "동원산업",
+        "std_ratio": 0.61,
+        "current_price": 38100,
+        "update_date": "2026-09-04"
+    },
+    {
+        "code": "006280",
+        "name": "녹십자",
+        "std_ratio": 0.62,
+        "current_price": 127600,
+        "update_date": "2026-09-04"
     },
     {
         "code": "007310",
         "name": "오뚜기",
-        "std_ratio": 0.33,
-        "current_price": 336000,
-        "update_date": "2026-09-03"
+        "std_ratio": 0.28,
+        "current_price": 334000,
+        "update_date": "2026-09-04"
     },
     {
         "code": "011810",
         "name": "STX",
         "std_ratio": 0.0,
         "current_price": 3530,
-        "update_date": "2026-09-03"
+        "update_date": "2026-09-04"
     },
     {
-        "code": "024110",
-        "name": "기업은행",
-        "std_ratio": 0.69,
-        "current_price": 21150,
-        "update_date": "2026-09-03"
+        "code": "015710",
+        "name": "코콤",
+        "std_ratio": 0.7,
+        "current_price": 2915,
+        "update_date": "2026-09-04"
+    },
+    {
+        "code": "026960",
+        "name": "동서",
+        "std_ratio": 0.56,
+        "current_price": 25450,
+        "update_date": "2026-09-04"
     },
     {
         "code": "030200",
         "name": "KT",
-        "std_ratio": 0.67,
-        "current_price": 53800,
-        "update_date": "2026-09-03"
+        "std_ratio": 0.54,
+        "current_price": 54300,
+        "update_date": "2026-09-04"
     },
     {
         "code": "032190",
         "name": "다우데이타",
-        "std_ratio": 0.41,
-        "current_price": 20350,
-        "update_date": "2026-09-03"
+        "std_ratio": 0.56,
+        "current_price": 20000,
+        "update_date": "2026-09-04"
+    },
+    {
+        "code": "033320",
+        "name": "제이씨현",
+        "std_ratio": 0.57,
+        "current_price": 3105,
+        "update_date": "2026-09-04"
     },
     {
         "code": "035250",
         "name": "강원랜드",
-        "std_ratio": 0.47,
-        "current_price": 14720,
-        "update_date": "2026-09-03"
-    },
-    {
-        "code": "036460",
-        "name": "한국가스공사",
-        "std_ratio": 0.69,
-        "current_price": 37700,
-        "update_date": "2026-09-03"
+        "std_ratio": 0.4,
+        "current_price": 14750,
+        "update_date": "2026-09-04"
     },
     {
         "code": "036620",
         "name": "감성코퍼레이션",
-        "std_ratio": 0.31,
-        "current_price": 3765,
-        "update_date": "2026-09-03"
+        "std_ratio": 0.35,
+        "current_price": 3740,
+        "update_date": "2026-09-04"
+    },
+    {
+        "code": "068270",
+        "name": "셀트리온",
+        "std_ratio": 0.48,
+        "current_price": 188100,
+        "update_date": "2026-09-04"
     },
     {
         "code": "069260",
         "name": "TKG휴켐스",
-        "std_ratio": 0.61,
-        "current_price": 16330,
-        "update_date": "2026-09-03"
+        "std_ratio": 0.59,
+        "current_price": 16320,
+        "update_date": "2026-09-04"
     },
     {
         "code": "185750",
         "name": "종근당",
-        "std_ratio": 0.56,
-        "current_price": 68200,
-        "update_date": "2026-09-03"
-    },
-    {
-        "code": "271560",
-        "name": "오리온",
         "std_ratio": 0.68,
-        "current_price": 129300,
-        "update_date": "2026-09-03"
+        "current_price": 68000,
+        "update_date": "2026-09-04"
     },
     {
         "code": "323410",
         "name": "카카오뱅크",
-        "std_ratio": 0.23,
-        "current_price": 21800,
-        "update_date": "2026-09-03"
+        "std_ratio": 0.27,
+        "current_price": 21950,
+        "update_date": "2026-09-04"
+    },
+    {
+        "code": "403870",
+        "name": "HPSP",
+        "std_ratio": 0.64,
+        "current_price": 50800,
+        "update_date": "2026-09-04"
     }
 ]
