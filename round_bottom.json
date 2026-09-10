@@ -1,34 +1,106 @@
 [
     {
-        "code": "034730",
-        "name": "SK",
-        "u_score": 47.52,
-        "current_price": 573000,
+        "code": "006360",
+        "name": "GS건설",
+        "u_score": 53.47,
+        "current_price": 37250,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-09-04"
+        "update_date": "2026-09-10"
     },
     {
-        "code": "039030",
-        "name": "이오테크닉스",
-        "u_score": 47.84,
-        "current_price": 443000,
+        "code": "010820",
+        "name": "퍼스텍",
+        "u_score": 53.78,
+        "current_price": 6090,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-09-04"
+        "update_date": "2026-09-10"
     },
     {
-        "code": "096770",
-        "name": "SK이노베이션",
-        "u_score": 42.78,
-        "current_price": 138300,
+        "code": "010820",
+        "name": "퍼스텍",
+        "u_score": 53.78,
+        "current_price": 6090,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-09-04"
+        "update_date": "2026-09-10"
     },
     {
-        "code": "108490",
-        "name": "로보티즈",
-        "u_score": 54.55,
-        "current_price": 304500,
+        "code": "015750",
+        "name": "성우하이텍",
+        "u_score": 62.3,
+        "current_price": 6220,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-09-04"
+        "update_date": "2026-09-10"
+    },
+    {
+        "code": "032820",
+        "name": "우리기술",
+        "u_score": 56.83,
+        "current_price": 14600,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-09-10"
+    },
+    {
+        "code": "041190",
+        "name": "우리기술투자",
+        "u_score": 47.98,
+        "current_price": 5730,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-09-10"
+    },
+    {
+        "code": "069500",
+        "name": "kdx200",
+        "u_score": 40.35,
+        "current_price": 111865,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-09-10"
+    },
+    {
+        "code": "082740",
+        "name": "한화엔진",
+        "u_score": 43.74,
+        "current_price": 48350,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-09-10"
+    },
+    {
+        "code": "112610",
+        "name": "씨에스윈드",
+        "u_score": 52.26,
+        "current_price": 51100,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-09-10"
+    },
+    {
+        "code": "128940",
+        "name": "한미약품",
+        "u_score": 41.62,
+        "current_price": 481500,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-09-10"
+    },
+    {
+        "code": "204270",
+        "name": "제이앤티씨",
+        "u_score": 45.99,
+        "current_price": 22450,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-09-10"
+    },
+    {
+        "code": "361610",
+        "name": "SK아이이테크놀로지",
+        "u_score": 40.14,
+        "current_price": 17640,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-09-10"
+    },
+    {
+        "code": "443060",
+        "name": "HD현대마린솔루션",
+        "u_score": 44.04,
+        "current_price": 229500,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-09-10"
     }
 ]
