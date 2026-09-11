@@ -1,106 +1,114 @@
 [
     {
+        "code": "002840",
+        "name": "미원상사",
+        "u_score": 51.16,
+        "current_price": 135500,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-09-11"
+    },
+    {
         "code": "006360",
         "name": "GS건설",
-        "u_score": 53.47,
-        "current_price": 37250,
+        "u_score": 49.56,
+        "current_price": 38500,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-09-10"
+        "update_date": "2026-09-11"
     },
     {
-        "code": "010820",
-        "name": "퍼스텍",
-        "u_score": 53.78,
-        "current_price": 6090,
+        "code": "007390",
+        "name": "네이처셀",
+        "u_score": 42.89,
+        "current_price": 25100,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-09-10"
+        "update_date": "2026-09-11"
     },
     {
-        "code": "010820",
-        "name": "퍼스텍",
-        "u_score": 53.78,
-        "current_price": 6090,
+        "code": "009240",
+        "name": "한샘",
+        "u_score": 64.79,
+        "current_price": 39350,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-09-10"
+        "update_date": "2026-09-11"
+    },
+    {
+        "code": "012750",
+        "name": "에스원",
+        "u_score": 46.5,
+        "current_price": 81400,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-09-11"
     },
     {
         "code": "015750",
         "name": "성우하이텍",
-        "u_score": 62.3,
-        "current_price": 6220,
+        "u_score": 43.43,
+        "current_price": 6020,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-09-10"
-    },
-    {
-        "code": "032820",
-        "name": "우리기술",
-        "u_score": 56.83,
-        "current_price": 14600,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-09-10"
+        "update_date": "2026-09-11"
     },
     {
         "code": "041190",
         "name": "우리기술투자",
-        "u_score": 47.98,
-        "current_price": 5730,
+        "u_score": 42.68,
+        "current_price": 5560,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-09-10"
-    },
-    {
-        "code": "069500",
-        "name": "kdx200",
-        "u_score": 40.35,
-        "current_price": 111865,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-09-10"
+        "update_date": "2026-09-11"
     },
     {
         "code": "082740",
         "name": "한화엔진",
-        "u_score": 43.74,
-        "current_price": 48350,
+        "u_score": 42.42,
+        "current_price": 50300,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-09-10"
+        "update_date": "2026-09-11"
     },
     {
         "code": "112610",
         "name": "씨에스윈드",
-        "u_score": 52.26,
-        "current_price": 51100,
+        "u_score": 41.96,
+        "current_price": 52800,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-09-10"
+        "update_date": "2026-09-11"
     },
     {
         "code": "128940",
         "name": "한미약품",
-        "u_score": 41.62,
-        "current_price": 481500,
+        "u_score": 52.81,
+        "current_price": 464000,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-09-10"
+        "update_date": "2026-09-11"
     },
     {
-        "code": "204270",
-        "name": "제이앤티씨",
-        "u_score": 45.99,
-        "current_price": 22450,
+        "code": "199820",
+        "name": "제일일렉트린",
+        "u_score": 42.87,
+        "current_price": 7450,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-09-10"
+        "update_date": "2026-09-11"
     },
     {
-        "code": "361610",
-        "name": "SK아이이테크놀로지",
-        "u_score": 40.14,
-        "current_price": 17640,
+        "code": "357780",
+        "name": "솔브레인",
+        "u_score": 44.13,
+        "current_price": 330000,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-09-10"
+        "update_date": "2026-09-11"
     },
     {
         "code": "443060",
         "name": "HD현대마린솔루션",
-        "u_score": 44.04,
-        "current_price": 229500,
+        "u_score": 46.69,
+        "current_price": 247000,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-09-10"
+        "update_date": "2026-09-11"
+    },
+    {
+        "code": "454910",
+        "name": "두산로보틱스",
+        "u_score": 51.88,
+        "current_price": 71500,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-09-11"
     }
 ]
