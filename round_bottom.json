@@ -1,154 +1,50 @@
 [
     {
-        "code": "005420",
-        "name": "코스모화학",
-        "u_score": 59.21,
-        "current_price": 11230,
+        "code": "006400",
+        "name": "삼성SDI",
+        "u_score": 44.66,
+        "current_price": 567000,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-02"
+        "update_date": "2026-10-08"
     },
     {
-        "code": "005850",
-        "name": "에스엘",
-        "u_score": 70.11,
-        "current_price": 52500,
+        "code": "012750",
+        "name": "에스원",
+        "u_score": 42.36,
+        "current_price": 83900,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-02"
+        "update_date": "2026-10-08"
     },
     {
-        "code": "007390",
-        "name": "네이처셀",
-        "u_score": 43.9,
-        "current_price": 24950,
+        "code": "021240",
+        "name": "코웨이",
+        "u_score": 49.8,
+        "current_price": 100300,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-02"
+        "update_date": "2026-10-08"
     },
     {
-        "code": "018880",
-        "name": "한온시스템",
-        "u_score": 45.42,
-        "current_price": 3840,
+        "code": "051910",
+        "name": "LG화학",
+        "u_score": 50.33,
+        "current_price": 281500,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-02"
+        "update_date": "2026-10-08"
     },
     {
-        "code": "025320",
-        "name": "시노펙스",
-        "u_score": 44.34,
-        "current_price": 3995,
+        "code": "068760",
+        "name": "셀트리온제약",
+        "u_score": 46.09,
+        "current_price": 38800,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-02"
+        "update_date": "2026-10-08"
     },
     {
-        "code": "025900",
-        "name": "동화기업",
-        "u_score": 60.17,
-        "current_price": 7450,
+        "code": "358570",
+        "name": "지아이이노베이션",
+        "u_score": 56.93,
+        "current_price": 8450,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-02"
-    },
-    {
-        "code": "030000",
-        "name": "제일기획",
-        "u_score": 43.01,
-        "current_price": 18770,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-02"
-    },
-    {
-        "code": "036830",
-        "name": "솔브레인홀딩스",
-        "u_score": 40.7,
-        "current_price": 48950,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-02"
-    },
-    {
-        "code": "086520",
-        "name": "에코프로",
-        "u_score": 61.91,
-        "current_price": 89100,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-02"
-    },
-    {
-        "code": "095660",
-        "name": "네오위즈",
-        "u_score": 57.29,
-        "current_price": 18090,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-02"
-    },
-    {
-        "code": "112040",
-        "name": "위메이드",
-        "u_score": 71.9,
-        "current_price": 15660,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-02"
-    },
-    {
-        "code": "112610",
-        "name": "씨에스윈드",
-        "u_score": 54.57,
-        "current_price": 55300,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-02"
-    },
-    {
-        "code": "126600",
-        "name": "BGF에코",
-        "u_score": 68.87,
-        "current_price": 3200,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-02"
-    },
-    {
-        "code": "137310",
-        "name": "에스디바이오센서",
-        "u_score": 60.01,
-        "current_price": 6340,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-02"
-    },
-    {
-        "code": "293490",
-        "name": "카카오게임즈",
-        "u_score": 55.59,
-        "current_price": 10180,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-02"
-    },
-    {
-        "code": "365340",
-        "name": "성일하이텍",
-        "u_score": 46.57,
-        "current_price": 38050,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-02"
-    },
-    {
-        "code": "383310",
-        "name": "에코프로에이치엔",
-        "u_score": 54.93,
-        "current_price": 24850,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-02"
-    },
-    {
-        "code": "450080",
-        "name": "에코프로머티",
-        "u_score": 42.25,
-        "current_price": 38200,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-02"
-    },
-    {
-        "code": "450080",
-        "name": "에코프로머티",
-        "u_score": 42.25,
-        "current_price": 38200,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-02"
+        "update_date": "2026-10-08"
     }
 ]
