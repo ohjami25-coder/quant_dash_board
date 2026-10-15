@@ -1,50 +1,18 @@
 [
     {
-        "code": "006400",
-        "name": "삼성SDI",
-        "u_score": 44.66,
-        "current_price": 567000,
+        "code": "000080",
+        "name": "하이트진로",
+        "u_score": 61.66,
+        "current_price": 15380,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-09"
+        "update_date": "2026-10-15"
     },
     {
-        "code": "012750",
-        "name": "에스원",
-        "u_score": 42.36,
-        "current_price": 83900,
+        "code": "032640",
+        "name": "LG유플러스",
+        "u_score": 49.73,
+        "current_price": 15050,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-09"
-    },
-    {
-        "code": "021240",
-        "name": "코웨이",
-        "u_score": 49.8,
-        "current_price": 100300,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-09"
-    },
-    {
-        "code": "051910",
-        "name": "LG화학",
-        "u_score": 50.33,
-        "current_price": 281500,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-09"
-    },
-    {
-        "code": "068760",
-        "name": "셀트리온제약",
-        "u_score": 46.09,
-        "current_price": 38800,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-09"
-    },
-    {
-        "code": "358570",
-        "name": "지아이이노베이션",
-        "u_score": 56.93,
-        "current_price": 8450,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-09"
+        "update_date": "2026-10-15"
     }
 ]
