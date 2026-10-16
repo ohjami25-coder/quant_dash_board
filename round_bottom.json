@@ -1,18 +1,18 @@
 [
     {
-        "code": "000080",
-        "name": "하이트진로",
-        "u_score": 61.66,
-        "current_price": 15380,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-15"
-    },
-    {
         "code": "032640",
         "name": "LG유플러스",
-        "u_score": 49.73,
-        "current_price": 15050,
+        "u_score": 48.15,
+        "current_price": 15510,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-15"
+        "update_date": "2026-10-16"
+    },
+    {
+        "code": "035760",
+        "name": "CJ ENM",
+        "u_score": 60.73,
+        "current_price": 40750,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-10-16"
     }
 ]
