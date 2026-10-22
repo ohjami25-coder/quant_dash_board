@@ -1,18 +1,66 @@
 [
     {
-        "code": "032640",
-        "name": "LG유플러스",
-        "u_score": 48.15,
-        "current_price": 15510,
+        "code": "003230",
+        "name": "삼양식품",
+        "u_score": 43.42,
+        "current_price": 1230000,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-16"
+        "update_date": "2026-10-22"
     },
     {
-        "code": "035760",
-        "name": "CJ ENM",
-        "u_score": 60.73,
-        "current_price": 40750,
+        "code": "005850",
+        "name": "에스엘",
+        "u_score": 63.02,
+        "current_price": 49800,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-16"
+        "update_date": "2026-10-22"
+    },
+    {
+        "code": "039200",
+        "name": "오스코텍",
+        "u_score": 48.37,
+        "current_price": 37450,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-10-22"
+    },
+    {
+        "code": "064400",
+        "name": "LG씨엔에스",
+        "u_score": 71.04,
+        "current_price": 72700,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-10-22"
+    },
+    {
+        "code": "068760",
+        "name": "셀트리온제약",
+        "u_score": 50.54,
+        "current_price": 38350,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-10-22"
+    },
+    {
+        "code": "145020",
+        "name": "휴젤",
+        "u_score": 50.79,
+        "current_price": 180200,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-10-22"
+    },
+    {
+        "code": "237690",
+        "name": "에스티팜",
+        "u_score": 64.55,
+        "current_price": 89800,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-10-22"
+    },
+    {
+        "code": "253590",
+        "name": "네오셈",
+        "u_score": 44.82,
+        "current_price": 15870,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-10-22"
     }
 ]

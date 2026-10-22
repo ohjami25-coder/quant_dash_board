@@ -1,86 +1,72 @@
 [
     {
-        "code": "000120",
-        "name": "CJ대한통운",
-        "std_ratio": 0.38,
-        "current_price": 69700,
-        "update_date": "2026-10-16"
-    },
-    {
-        "code": "001800",
-        "name": "오리온홀딩스",
-        "std_ratio": 0.59,
-        "current_price": 22800,
-        "update_date": "2026-10-16"
-    },
-    {
-        "code": "002840",
-        "name": "미원상사",
-        "std_ratio": 0.54,
-        "current_price": 139300,
-        "update_date": "2026-10-16"
-    },
-    {
-        "code": "007310",
-        "name": "오뚜기",
-        "std_ratio": 0.65,
-        "current_price": 319000,
-        "update_date": "2026-10-16"
-    },
-    {
         "code": "011810",
         "name": "STX",
         "std_ratio": 0.0,
         "current_price": 3530,
-        "update_date": "2026-10-16"
+        "update_date": "2026-10-22"
+    },
+    {
+        "code": "012750",
+        "name": "에스원",
+        "std_ratio": 0.28,
+        "current_price": 96600,
+        "update_date": "2026-10-22"
     },
     {
         "code": "024110",
         "name": "기업은행",
-        "std_ratio": 0.34,
-        "current_price": 19950,
-        "update_date": "2026-10-16"
-    },
-    {
-        "code": "026960",
-        "name": "동서",
-        "std_ratio": 0.41,
-        "current_price": 26950,
-        "update_date": "2026-10-16"
+        "std_ratio": 0.46,
+        "current_price": 19790,
+        "update_date": "2026-10-22"
     },
     {
         "code": "030000",
         "name": "제일기획",
-        "std_ratio": 0.47,
-        "current_price": 19520,
-        "update_date": "2026-10-16"
+        "std_ratio": 0.61,
+        "current_price": 19530,
+        "update_date": "2026-10-22"
     },
     {
         "code": "035250",
         "name": "강원랜드",
-        "std_ratio": 0.27,
-        "current_price": 14270,
-        "update_date": "2026-10-16"
+        "std_ratio": 0.2,
+        "current_price": 14250,
+        "update_date": "2026-10-22"
     },
     {
-        "code": "069260",
-        "name": "TKG휴켐스",
-        "std_ratio": 0.7,
-        "current_price": 15460,
-        "update_date": "2026-10-16"
+        "code": "036460",
+        "name": "한국가스공사",
+        "std_ratio": 0.65,
+        "current_price": 36200,
+        "update_date": "2026-10-22"
     },
     {
-        "code": "086790",
-        "name": "하나금융지주",
-        "std_ratio": 0.58,
-        "current_price": 122700,
-        "update_date": "2026-10-16"
+        "code": "053030",
+        "name": "바이넥스",
+        "std_ratio": 0.6,
+        "current_price": 6140,
+        "update_date": "2026-10-22"
     },
     {
-        "code": "105560",
-        "name": "KB금융",
-        "std_ratio": 0.63,
-        "current_price": 160300,
-        "update_date": "2026-10-16"
+        "code": "068270",
+        "name": "셀트리온",
+        "std_ratio": 0.69,
+        "current_price": 193500,
+        "update_date": "2026-10-22"
+    },
+    {
+        "code": "138040",
+        "name": "메리츠금융지주",
+        "std_ratio": 0.42,
+        "current_price": 130700,
+        "update_date": "2026-10-22"
+    },
+    {
+        "code": "280360",
+        "name": "롯데웰푸드",
+        "std_ratio": 0.53,
+        "current_price": 121900,
+        "update_date": "2026-10-22"
     }
 ]
