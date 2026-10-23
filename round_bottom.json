@@ -1,66 +1,90 @@
 [
     {
-        "code": "003230",
-        "name": "삼양식품",
-        "u_score": 43.42,
-        "current_price": 1230000,
+        "code": "000250",
+        "name": "삼천당제약",
+        "u_score": 50.57,
+        "current_price": 198000,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-22"
+        "update_date": "2026-10-23"
     },
     {
         "code": "005850",
         "name": "에스엘",
-        "u_score": 63.02,
-        "current_price": 49800,
+        "u_score": 48.07,
+        "current_price": 49150,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-22"
+        "update_date": "2026-10-23"
+    },
+    {
+        "code": "028050",
+        "name": "삼성E&A",
+        "u_score": 54.25,
+        "current_price": 59100,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-10-23"
+    },
+    {
+        "code": "028300",
+        "name": "HLB",
+        "u_score": 51.33,
+        "current_price": 41600,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-10-23"
     },
     {
         "code": "039200",
         "name": "오스코텍",
-        "u_score": 48.37,
-        "current_price": 37450,
+        "u_score": 48.29,
+        "current_price": 37200,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-22"
+        "update_date": "2026-10-23"
     },
     {
         "code": "064400",
         "name": "LG씨엔에스",
-        "u_score": 71.04,
-        "current_price": 72700,
+        "u_score": 48.71,
+        "current_price": 72200,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-22"
-    },
-    {
-        "code": "068760",
-        "name": "셀트리온제약",
-        "u_score": 50.54,
-        "current_price": 38350,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-22"
-    },
-    {
-        "code": "145020",
-        "name": "휴젤",
-        "u_score": 50.79,
-        "current_price": 180200,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-22"
+        "update_date": "2026-10-23"
     },
     {
         "code": "237690",
         "name": "에스티팜",
-        "u_score": 64.55,
-        "current_price": 89800,
+        "u_score": 44.58,
+        "current_price": 89700,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-22"
+        "update_date": "2026-10-23"
     },
     {
         "code": "253590",
         "name": "네오셈",
-        "u_score": 44.82,
-        "current_price": 15870,
+        "u_score": 50.98,
+        "current_price": 16330,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-10-22"
+        "update_date": "2026-10-23"
+    },
+    {
+        "code": "326030",
+        "name": "SK바이오팜",
+        "u_score": 40.71,
+        "current_price": 76700,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-10-23"
+    },
+    {
+        "code": "383310",
+        "name": "에코프로에이치엔",
+        "u_score": 44.75,
+        "current_price": 23150,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-10-23"
+    },
+    {
+        "code": "441270",
+        "name": "파인엠텍",
+        "u_score": 43.14,
+        "current_price": 11370,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-10-23"
     }
 ]
