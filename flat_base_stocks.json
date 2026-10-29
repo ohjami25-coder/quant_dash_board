@@ -1,58 +1,100 @@
 [
     {
-        "code": "000810",
-        "name": "삼성화재",
-        "std_ratio": 0.64,
-        "current_price": 602000,
-        "update_date": "2026-10-23"
+        "code": "000240",
+        "name": "한국앤컴퍼니",
+        "std_ratio": 0.69,
+        "current_price": 23150,
+        "update_date": "2026-10-29"
+    },
+    {
+        "code": "003550",
+        "name": "LG",
+        "std_ratio": 0.61,
+        "current_price": 99800,
+        "update_date": "2026-10-29"
+    },
+    {
+        "code": "004020",
+        "name": "현대제철",
+        "std_ratio": 0.54,
+        "current_price": 26350,
+        "update_date": "2026-10-29"
+    },
+    {
+        "code": "005850",
+        "name": "에스엘",
+        "std_ratio": 0.7,
+        "current_price": 50000,
+        "update_date": "2026-10-29"
+    },
+    {
+        "code": "007310",
+        "name": "오뚜기",
+        "std_ratio": 0.61,
+        "current_price": 313500,
+        "update_date": "2026-10-29"
+    },
+    {
+        "code": "011200",
+        "name": "HMM",
+        "std_ratio": 0.59,
+        "current_price": 22500,
+        "update_date": "2026-10-29"
     },
     {
         "code": "011810",
         "name": "STX",
         "std_ratio": 0.0,
         "current_price": 3530,
-        "update_date": "2026-10-23"
+        "update_date": "2026-10-29"
     },
     {
-        "code": "012750",
-        "name": "에스원",
-        "std_ratio": 0.53,
-        "current_price": 96000,
-        "update_date": "2026-10-23"
+        "code": "035720",
+        "name": "카카오",
+        "std_ratio": 0.55,
+        "current_price": 29450,
+        "update_date": "2026-10-29"
     },
     {
-        "code": "035250",
-        "name": "강원랜드",
-        "std_ratio": 0.26,
-        "current_price": 14170,
-        "update_date": "2026-10-23"
+        "code": "068270",
+        "name": "셀트리온",
+        "std_ratio": 0.64,
+        "current_price": 190600,
+        "update_date": "2026-10-29"
     },
     {
-        "code": "036460",
-        "name": "한국가스공사",
-        "std_ratio": 0.65,
-        "current_price": 36450,
-        "update_date": "2026-10-23"
+        "code": "082800",
+        "name": "비보존제약",
+        "std_ratio": 0.68,
+        "current_price": 2960,
+        "update_date": "2026-10-29"
     },
     {
-        "code": "053030",
-        "name": "바이넥스",
-        "std_ratio": 0.54,
-        "current_price": 6130,
-        "update_date": "2026-10-23"
+        "code": "225570",
+        "name": "넥슨게임즈",
+        "std_ratio": 0.43,
+        "current_price": 9470,
+        "update_date": "2026-10-29"
     },
     {
-        "code": "095660",
-        "name": "네오위즈",
-        "std_ratio": 0.6,
-        "current_price": 18170,
-        "update_date": "2026-10-23"
+        "code": "251270",
+        "name": "넷마블",
+        "std_ratio": 0.36,
+        "current_price": 33850,
+        "update_date": "2026-10-29"
     },
     {
-        "code": "280360",
-        "name": "롯데웰푸드",
-        "std_ratio": 0.41,
-        "current_price": 123300,
-        "update_date": "2026-10-23"
+        "code": "263750",
+        "name": "펄어비스",
+        "std_ratio": 0.48,
+        "current_price": 34500,
+        "update_date": "2026-10-29"
+    },
+    {
+        "code": "300720",
+        "name": "한일시멘트",
+        "std_ratio": 0.61,
+        "current_price": 16590,
+        "update_date": "2026-10-29"
     }
 ]
