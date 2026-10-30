@@ -3,105 +3,112 @@
         "code": "000080",
         "name": "하이트진로",
         "bottom_diff": 4.14,
-        "current_price": 15600,
-        "update_date": "2026-10-29"
+        "current_price": 15860,
+        "update_date": "2026-10-30"
     },
     {
         "code": "000810",
         "name": "삼성화재",
-        "bottom_diff": 0.34,
-        "current_price": 653000,
-        "update_date": "2026-10-29"
+        "bottom_diff": 2.4,
+        "current_price": 655000,
+        "update_date": "2026-10-30"
     },
     {
-        "code": "006280",
-        "name": "녹십자",
-        "bottom_diff": 4.14,
-        "current_price": 132500,
-        "update_date": "2026-10-29"
+        "code": "007070",
+        "name": "GS리테일",
+        "bottom_diff": 2.19,
+        "current_price": 22500,
+        "update_date": "2026-10-30"
     },
     {
         "code": "018260",
         "name": "삼성에스디에스",
         "bottom_diff": 2.89,
-        "current_price": 204500,
-        "update_date": "2026-10-29"
+        "current_price": 200000,
+        "update_date": "2026-10-30"
     },
     {
-        "code": "021240",
-        "name": "코웨이",
-        "bottom_diff": 2.02,
-        "current_price": 102900,
-        "update_date": "2026-10-29"
+        "code": "026960",
+        "name": "동서",
+        "bottom_diff": 4.2,
+        "current_price": 28400,
+        "update_date": "2026-10-30"
     },
     {
         "code": "028050",
         "name": "삼성E&A",
         "bottom_diff": 3.23,
-        "current_price": 62600,
-        "update_date": "2026-10-29"
+        "current_price": 60600,
+        "update_date": "2026-10-30"
+    },
+    {
+        "code": "028260",
+        "name": "삼성물산",
+        "bottom_diff": 3.23,
+        "current_price": 307000,
+        "update_date": "2026-10-30"
     },
     {
         "code": "032830",
         "name": "삼성생명",
         "bottom_diff": 4.22,
-        "current_price": 279500,
-        "update_date": "2026-10-29"
+        "current_price": 268500,
+        "update_date": "2026-10-30"
+    },
+    {
+        "code": "034730",
+        "name": "SK",
+        "bottom_diff": 2.99,
+        "current_price": 494500,
+        "update_date": "2026-10-30"
     },
     {
         "code": "035900",
         "name": "JYP Ent.",
         "bottom_diff": 0.0,
-        "current_price": 38600,
-        "update_date": "2026-10-29"
+        "current_price": 39000,
+        "update_date": "2026-10-30"
     },
     {
         "code": "036460",
         "name": "한국가스공사",
-        "bottom_diff": 2.58,
-        "current_price": 37050,
-        "update_date": "2026-10-29"
+        "bottom_diff": 2.28,
+        "current_price": 36850,
+        "update_date": "2026-10-30"
+    },
+    {
+        "code": "046890",
+        "name": "서울반도체",
+        "bottom_diff": 2.08,
+        "current_price": 11440,
+        "update_date": "2026-10-30"
     },
     {
         "code": "053800",
         "name": "안랩",
-        "bottom_diff": 1.87,
-        "current_price": 99000,
-        "update_date": "2026-10-29"
+        "bottom_diff": 1.33,
+        "current_price": 121100,
+        "update_date": "2026-10-30"
     },
     {
-        "code": "215200",
-        "name": "메가스터디교육",
-        "bottom_diff": 2.71,
-        "current_price": 38000,
-        "update_date": "2026-10-29"
+        "code": "179900",
+        "name": "유티아이",
+        "bottom_diff": 0.67,
+        "current_price": 2275,
+        "update_date": "2026-10-30"
     },
     {
         "code": "268280",
         "name": "미원에스씨",
         "bottom_diff": 2.03,
-        "current_price": 132800,
-        "update_date": "2026-10-29"
-    },
-    {
-        "code": "271560",
-        "name": "오리온",
-        "bottom_diff": 4.42,
-        "current_price": 113200,
-        "update_date": "2026-10-29"
-    },
-    {
-        "code": "300720",
-        "name": "한일시멘트",
-        "bottom_diff": 3.44,
-        "current_price": 16590,
-        "update_date": "2026-10-29"
+        "current_price": 131000,
+        "update_date": "2026-10-30"
     },
     {
         "code": "328130",
         "name": "루닛",
         "bottom_diff": 4.45,
-        "current_price": 15130,
-        "update_date": "2026-10-29"
+        "current_price": 15400,
+        "update_date": "2026-10-30"
     }
 ]
