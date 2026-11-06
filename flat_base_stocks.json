@@ -1,58 +1,44 @@
 [
     {
-        "code": "000810",
-        "name": "삼성화재",
-        "std_ratio": 0.55,
-        "current_price": 658000,
-        "update_date": "2026-11-05"
-    },
-    {
-        "code": "004000",
-        "name": "롯데정밀화학",
-        "std_ratio": 0.5,
-        "current_price": 35000,
-        "update_date": "2026-11-05"
+        "code": "000670",
+        "name": "영풍",
+        "std_ratio": 0.69,
+        "current_price": 30650,
+        "update_date": "2026-11-06"
     },
     {
         "code": "011810",
         "name": "STX",
         "std_ratio": 0.0,
         "current_price": 3530,
-        "update_date": "2026-11-05"
-    },
-    {
-        "code": "034310",
-        "name": "nice지주",
-        "std_ratio": 0.62,
-        "current_price": 11480,
-        "update_date": "2026-11-05"
+        "update_date": "2026-11-06"
     },
     {
         "code": "071320",
         "name": "지역난방공사",
-        "std_ratio": 0.64,
-        "current_price": 71500,
-        "update_date": "2026-11-05"
+        "std_ratio": 0.33,
+        "current_price": 70900,
+        "update_date": "2026-11-06"
+    },
+    {
+        "code": "114090",
+        "name": "GKL",
+        "std_ratio": 0.35,
+        "current_price": 8200,
+        "update_date": "2026-11-06"
     },
     {
         "code": "138930",
         "name": "BNK금융지주",
-        "std_ratio": 0.51,
-        "current_price": 13140,
-        "update_date": "2026-11-05"
-    },
-    {
-        "code": "200130",
-        "name": "콜마비앤에이치",
-        "std_ratio": 0.46,
-        "current_price": 7390,
-        "update_date": "2026-11-05"
+        "std_ratio": 0.5,
+        "current_price": 13040,
+        "update_date": "2026-11-06"
     },
     {
         "code": "268280",
         "name": "미원에스씨",
-        "std_ratio": 0.52,
-        "current_price": 131900,
-        "update_date": "2026-11-05"
+        "std_ratio": 0.68,
+        "current_price": 132100,
+        "update_date": "2026-11-06"
     }
 ]
