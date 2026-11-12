@@ -1,44 +1,65 @@
 [
     {
-        "code": "000670",
-        "name": "영풍",
-        "std_ratio": 0.69,
-        "current_price": 30650,
-        "update_date": "2026-11-06"
+        "code": "008770",
+        "name": "호텔신라",
+        "std_ratio": 0.64,
+        "current_price": 35250,
+        "update_date": "2026-11-12"
     },
     {
         "code": "011810",
         "name": "STX",
         "std_ratio": 0.0,
-        "current_price": 3530,
-        "update_date": "2026-11-06"
+        "current_price": 18360,
+        "update_date": "2026-11-12"
     },
     {
-        "code": "071320",
-        "name": "지역난방공사",
-        "std_ratio": 0.33,
-        "current_price": 70900,
-        "update_date": "2026-11-06"
+        "code": "012750",
+        "name": "에스원",
+        "std_ratio": 0.6,
+        "current_price": 99600,
+        "update_date": "2026-11-12"
     },
     {
-        "code": "114090",
-        "name": "GKL",
-        "std_ratio": 0.35,
-        "current_price": 8200,
-        "update_date": "2026-11-06"
+        "code": "014820",
+        "name": "동원시스템즈",
+        "std_ratio": 0.69,
+        "current_price": 20800,
+        "update_date": "2026-11-12"
     },
     {
-        "code": "138930",
-        "name": "BNK금융지주",
-        "std_ratio": 0.5,
-        "current_price": 13040,
-        "update_date": "2026-11-06"
+        "code": "035720",
+        "name": "카카오",
+        "std_ratio": 0.29,
+        "current_price": 31850,
+        "update_date": "2026-11-12"
     },
     {
-        "code": "268280",
-        "name": "미원에스씨",
-        "std_ratio": 0.68,
-        "current_price": 132100,
-        "update_date": "2026-11-06"
+        "code": "105560",
+        "name": "KB금융",
+        "std_ratio": 0.26,
+        "current_price": 152300,
+        "update_date": "2026-11-12"
+    },
+    {
+        "code": "185750",
+        "name": "종근당",
+        "std_ratio": 0.52,
+        "current_price": 63000,
+        "update_date": "2026-11-12"
+    },
+    {
+        "code": "323410",
+        "name": "카카오뱅크",
+        "std_ratio": 0.29,
+        "current_price": 20400,
+        "update_date": "2026-11-12"
+    },
+    {
+        "code": "326030",
+        "name": "SK바이오팜",
+        "std_ratio": 0.64,
+        "current_price": 88000,
+        "update_date": "2026-11-12"
     }
 ]
