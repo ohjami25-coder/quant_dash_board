@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "code": "032500",
+        "name": "케이엠더블유",
+        "u_score": 51.31,
+        "current_price": 18790,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-11-13"
+    },
+    {
+        "code": "050890",
+        "name": "쏠리드",
+        "u_score": 46.19,
+        "current_price": 8390,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-11-13"
+    },
+    {
+        "code": "179900",
+        "name": "유티아이",
+        "u_score": 59.87,
+        "current_price": 2575,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-11-13"
+    },
+    {
+        "code": "218410",
+        "name": "RFHIC",
+        "u_score": 52.43,
+        "current_price": 55400,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-11-13"
+    }
+]
