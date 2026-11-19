@@ -1,34 +1,66 @@
 [
     {
-        "code": "032500",
-        "name": "케이엠더블유",
-        "u_score": 51.31,
-        "current_price": 18790,
+        "code": "001680",
+        "name": "대상",
+        "u_score": 42.69,
+        "current_price": 16990,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-11-13"
+        "update_date": "2026-11-19"
     },
     {
-        "code": "050890",
-        "name": "쏠리드",
-        "u_score": 46.19,
-        "current_price": 8390,
+        "code": "003030",
+        "name": "세아제강지주",
+        "u_score": 53.48,
+        "current_price": 104600,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-11-13"
+        "update_date": "2026-11-19"
     },
     {
-        "code": "179900",
-        "name": "유티아이",
-        "u_score": 59.87,
-        "current_price": 2575,
+        "code": "004170",
+        "name": "신세계",
+        "u_score": 48.17,
+        "current_price": 296500,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-11-13"
+        "update_date": "2026-11-19"
     },
     {
-        "code": "218410",
-        "name": "RFHIC",
-        "u_score": 52.43,
-        "current_price": 55400,
+        "code": "008770",
+        "name": "호텔신라",
+        "u_score": 49.94,
+        "current_price": 38450,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-11-13"
+        "update_date": "2026-11-19"
+    },
+    {
+        "code": "021240",
+        "name": "코웨이",
+        "u_score": 46.14,
+        "current_price": 106700,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-11-19"
+    },
+    {
+        "code": "035760",
+        "name": "CJ ENM",
+        "u_score": 56.01,
+        "current_price": 52700,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-11-19"
+    },
+    {
+        "code": "090430",
+        "name": "아모레퍼시픽",
+        "u_score": 40.29,
+        "current_price": 141000,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-11-19"
+    },
+    {
+        "code": "271560",
+        "name": "오리온",
+        "u_score": 57.74,
+        "current_price": 118500,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-11-19"
     }
 ]
