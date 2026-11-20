@@ -1,66 +1,106 @@
 [
     {
+        "code": "000080",
+        "name": "하이트진로",
+        "u_score": 45.51,
+        "current_price": 16290,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-11-20"
+    },
+    {
         "code": "001680",
         "name": "대상",
-        "u_score": 42.69,
-        "current_price": 16990,
+        "u_score": 54.38,
+        "current_price": 16650,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-11-19"
+        "update_date": "2026-11-20"
     },
     {
         "code": "003030",
         "name": "세아제강지주",
-        "u_score": 53.48,
-        "current_price": 104600,
+        "u_score": 62.43,
+        "current_price": 105400,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-11-19"
-    },
-    {
-        "code": "004170",
-        "name": "신세계",
-        "u_score": 48.17,
-        "current_price": 296500,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-11-19"
+        "update_date": "2026-11-20"
     },
     {
         "code": "008770",
         "name": "호텔신라",
-        "u_score": 49.94,
-        "current_price": 38450,
+        "u_score": 46.44,
+        "current_price": 37750,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-11-19"
+        "update_date": "2026-11-20"
     },
     {
         "code": "021240",
         "name": "코웨이",
-        "u_score": 46.14,
-        "current_price": 106700,
+        "u_score": 50.96,
+        "current_price": 106400,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-11-19"
+        "update_date": "2026-11-20"
+    },
+    {
+        "code": "024110",
+        "name": "기업은행",
+        "u_score": 57.77,
+        "current_price": 19110,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-11-20"
+    },
+    {
+        "code": "035250",
+        "name": "강원랜드",
+        "u_score": 58.54,
+        "current_price": 14230,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-11-20"
     },
     {
         "code": "035760",
         "name": "CJ ENM",
-        "u_score": 56.01,
-        "current_price": 52700,
+        "u_score": 42.86,
+        "current_price": 49300,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-11-19"
+        "update_date": "2026-11-20"
     },
     {
         "code": "090430",
         "name": "아모레퍼시픽",
-        "u_score": 40.29,
-        "current_price": 141000,
+        "u_score": 42.04,
+        "current_price": 138500,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-11-19"
+        "update_date": "2026-11-20"
+    },
+    {
+        "code": "161890",
+        "name": "한국콜마",
+        "u_score": 53.48,
+        "current_price": 115600,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-11-20"
     },
     {
         "code": "271560",
         "name": "오리온",
-        "u_score": 57.74,
-        "current_price": 118500,
+        "u_score": 70.66,
+        "current_price": 116500,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-11-19"
+        "update_date": "2026-11-20"
+    },
+    {
+        "code": "282330",
+        "name": "BGF리테일",
+        "u_score": 45.11,
+        "current_price": 142800,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-11-20"
+    },
+    {
+        "code": "293490",
+        "name": "카카오게임즈",
+        "u_score": 69.55,
+        "current_price": 12660,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-11-20"
     }
 ]
