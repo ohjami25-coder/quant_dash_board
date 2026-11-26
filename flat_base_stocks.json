@@ -1,72 +1,30 @@
 [
     {
-        "code": "000080",
-        "name": "하이트진로",
-        "std_ratio": 0.35,
-        "current_price": 16290,
-        "update_date": "2026-11-20"
-    },
-    {
-        "code": "007310",
-        "name": "오뚜기",
-        "std_ratio": 0.66,
-        "current_price": 295000,
-        "update_date": "2026-11-20"
-    },
-    {
         "code": "011810",
         "name": "STX",
         "std_ratio": 0.0,
         "current_price": 18360,
-        "update_date": "2026-11-20"
+        "update_date": "2026-11-26"
     },
     {
-        "code": "024110",
-        "name": "기업은행",
-        "std_ratio": 0.29,
-        "current_price": 19110,
-        "update_date": "2026-11-20"
-    },
-    {
-        "code": "030000",
-        "name": "제일기획",
-        "std_ratio": 0.59,
-        "current_price": 18840,
-        "update_date": "2026-11-20"
-    },
-    {
-        "code": "033780",
-        "name": "KT&G",
-        "std_ratio": 0.27,
-        "current_price": 181100,
-        "update_date": "2026-11-20"
-    },
-    {
-        "code": "035250",
-        "name": "강원랜드",
+        "code": "030520",
+        "name": "한글과컴퓨터",
         "std_ratio": 0.62,
-        "current_price": 14230,
-        "update_date": "2026-11-20"
+        "current_price": 13010,
+        "update_date": "2026-11-26"
     },
     {
-        "code": "096530",
-        "name": "씨젠",
-        "std_ratio": 0.54,
-        "current_price": 23850,
-        "update_date": "2026-11-20"
+        "code": "034310",
+        "name": "nice지주",
+        "std_ratio": 0.36,
+        "current_price": 11510,
+        "update_date": "2026-11-26"
     },
     {
-        "code": "185750",
-        "name": "종근당",
-        "std_ratio": 0.39,
-        "current_price": 61200,
-        "update_date": "2026-11-20"
-    },
-    {
-        "code": "196170",
-        "name": "알테오젠",
-        "std_ratio": 0.51,
-        "current_price": 173600,
-        "update_date": "2026-11-20"
+        "code": "112610",
+        "name": "씨에스윈드",
+        "std_ratio": 0.6,
+        "current_price": 39250,
+        "update_date": "2026-11-26"
     }
 ]
