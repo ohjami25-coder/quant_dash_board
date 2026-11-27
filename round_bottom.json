@@ -2,65 +2,65 @@
     {
         "code": "008930",
         "name": "한미사이언스",
-        "u_score": 79.89,
-        "current_price": 55600,
+        "u_score": 58.72,
+        "current_price": 58300,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-11-26"
+        "update_date": "2026-11-27"
+    },
+    {
+        "code": "030000",
+        "name": "제일기획",
+        "u_score": 47.2,
+        "current_price": 19670,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-11-27"
+    },
+    {
+        "code": "050890",
+        "name": "쏠리드",
+        "u_score": 63.42,
+        "current_price": 9410,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-11-27"
+    },
+    {
+        "code": "056080",
+        "name": "유진로봇",
+        "u_score": 44.0,
+        "current_price": 10050,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-11-27"
+    },
+    {
+        "code": "060280",
+        "name": "큐렉소",
+        "u_score": 50.1,
+        "current_price": 7460,
+        "ma_status": "Bullish(5>20)",
+        "update_date": "2026-11-27"
     },
     {
         "code": "128940",
         "name": "한미약품",
-        "u_score": 86.81,
-        "current_price": 471000,
+        "u_score": 65.37,
+        "current_price": 491000,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-11-26"
-    },
-    {
-        "code": "237690",
-        "name": "에스티팜",
-        "u_score": 53.39,
-        "current_price": 79800,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-11-26"
-    },
-    {
-        "code": "257720",
-        "name": "실리콘투",
-        "u_score": 56.79,
-        "current_price": 30300,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-11-26"
+        "update_date": "2026-11-27"
     },
     {
         "code": "302440",
         "name": "SK바이오사이언스",
-        "u_score": 61.08,
-        "current_price": 39700,
+        "u_score": 55.71,
+        "current_price": 40550,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-11-26"
-    },
-    {
-        "code": "310210",
-        "name": "보로노이",
-        "u_score": 42.43,
-        "current_price": 139800,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-11-26"
+        "update_date": "2026-11-27"
     },
     {
         "code": "326030",
         "name": "SK바이오팜",
-        "u_score": 45.92,
-        "current_price": 91300,
+        "u_score": 46.77,
+        "current_price": 97600,
         "ma_status": "Bullish(5>20)",
-        "update_date": "2026-11-26"
-    },
-    {
-        "code": "358570",
-        "name": "지아이이노베이션",
-        "u_score": 41.17,
-        "current_price": 8530,
-        "ma_status": "Bullish(5>20)",
-        "update_date": "2026-11-26"
+        "update_date": "2026-11-27"
     }
 ]

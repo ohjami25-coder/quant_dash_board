@@ -1,30 +1,65 @@
 [
     {
+        "code": "001800",
+        "name": "오리온홀딩스",
+        "std_ratio": 0.3,
+        "current_price": 22550,
+        "update_date": "2026-11-27"
+    },
+    {
+        "code": "004990",
+        "name": "롯데지주",
+        "std_ratio": 0.68,
+        "current_price": 21700,
+        "update_date": "2026-11-27"
+    },
+    {
+        "code": "009240",
+        "name": "한샘",
+        "std_ratio": 0.65,
+        "current_price": 30500,
+        "update_date": "2026-11-27"
+    },
+    {
         "code": "011810",
         "name": "STX",
         "std_ratio": 0.0,
         "current_price": 18360,
-        "update_date": "2026-11-26"
+        "update_date": "2026-11-27"
     },
     {
-        "code": "030520",
-        "name": "한글과컴퓨터",
-        "std_ratio": 0.62,
-        "current_price": 13010,
-        "update_date": "2026-11-26"
+        "code": "017670",
+        "name": "SK텔레콤",
+        "std_ratio": 0.63,
+        "current_price": 65600,
+        "update_date": "2026-11-27"
     },
     {
-        "code": "034310",
-        "name": "nice지주",
-        "std_ratio": 0.36,
-        "current_price": 11510,
-        "update_date": "2026-11-26"
+        "code": "024110",
+        "name": "기업은행",
+        "std_ratio": 0.56,
+        "current_price": 18650,
+        "update_date": "2026-11-27"
     },
     {
-        "code": "112610",
-        "name": "씨에스윈드",
-        "std_ratio": 0.6,
-        "current_price": 39250,
-        "update_date": "2026-11-26"
+        "code": "026960",
+        "name": "동서",
+        "std_ratio": 0.55,
+        "current_price": 26200,
+        "update_date": "2026-11-27"
+    },
+    {
+        "code": "035250",
+        "name": "강원랜드",
+        "std_ratio": 0.45,
+        "current_price": 14010,
+        "update_date": "2026-11-27"
+    },
+    {
+        "code": "036460",
+        "name": "한국가스공사",
+        "std_ratio": 0.63,
+        "current_price": 35600,
+        "update_date": "2026-11-27"
     }
 ]
